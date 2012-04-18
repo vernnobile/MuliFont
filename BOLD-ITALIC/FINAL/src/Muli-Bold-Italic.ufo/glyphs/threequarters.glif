@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="1921"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <component base="foursuperior" xOffset="1030" yOffset="-575"/>
+    <component base="threesuperior" xOffset="-86" yOffset="71"/>
+    <component base="fraction" xOffset="758"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

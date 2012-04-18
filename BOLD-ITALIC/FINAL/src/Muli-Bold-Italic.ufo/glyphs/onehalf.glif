@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="1">
+  <advance width="1858"/>
+  <unicode hex="00BD"/>
+  <outline>
+    <component base="twosuperior" xOffset="836" yOffset="-563"/>
+    <component base="onesuperior" xOffset="-10" yOffset="70"/>
+    <component base="fraction" xOffset="716"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

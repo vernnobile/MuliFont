@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="1190"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="299" y="1169" type="line"/>
+      <point x="374" y="1215"/>
+      <point x="466" y="1247"/>
+      <point x="536" y="1247" type="curve" smooth="yes"/>
+      <point x="600" y="1247"/>
+      <point x="646" y="1221"/>
+      <point x="646" y="1156" type="curve" smooth="yes"/>
+      <point x="646" y="1093"/>
+      <point x="588" y="1000"/>
+      <point x="245" y="725" type="curve"/>
+      <point x="245" y="564" type="line"/>
+      <point x="829" y="564" type="line"/>
+      <point x="829" y="741" type="line"/>
+      <point x="518" y="741" type="line"/>
+      <point x="686" y="867"/>
+      <point x="840" y="996"/>
+      <point x="840" y="1158" type="curve" smooth="yes"/>
+      <point x="840" y="1335"/>
+      <point x="707" y="1413"/>
+      <point x="549" y="1413" type="curve" smooth="yes"/>
+      <point x="445" y="1413"/>
+      <point x="329" y="1379"/>
+      <point x="234" y="1317" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

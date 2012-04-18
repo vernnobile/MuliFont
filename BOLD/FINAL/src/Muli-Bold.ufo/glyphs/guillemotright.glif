@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="1156"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="1026" y="542" type="line"/>
+      <point x="749" y="921" type="line"/>
+      <point x="513" y="921" type="line"/>
+      <point x="770" y="544" type="line"/>
+      <point x="504" y="160" type="line"/>
+      <point x="744" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="657" y="542" type="line"/>
+      <point x="379" y="921" type="line"/>
+      <point x="137" y="921" type="line"/>
+      <point x="400" y="542" type="line"/>
+      <point x="129" y="160" type="line"/>
+      <point x="375" y="160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
