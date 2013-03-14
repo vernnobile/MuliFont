@@ -3,14 +3,7 @@
   <advance width="1268"/>
   <unicode hex="020F"/>
   <outline>
-    <component base="o"/>
     <component base="uni0311" xOffset="345"/>
+    <component base="o"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

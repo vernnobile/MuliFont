@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="egrave" format="1">
-  <advance width="1187"/>
+  <advance width="1184"/>
   <unicode hex="00E8"/>
   <outline>
-    <component base="e"/>
     <component base="grave" xOffset="315"/>
+    <component base="e"/>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

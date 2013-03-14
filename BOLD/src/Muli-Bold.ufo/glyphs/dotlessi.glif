@@ -5,16 +5,15 @@
   <outline>
     <contour>
       <point x="360" y="1026" type="line"/>
-      <point x="123" y="1026" type="line"/>
-      <point x="123" y="0" type="line"/>
       <point x="360" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="1026" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="1026" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="453" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

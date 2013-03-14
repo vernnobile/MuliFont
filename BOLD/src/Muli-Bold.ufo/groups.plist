@@ -2,197 +2,305 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>.Aleft</key>
+	<key>@MMK_L_A_Left</key>
 	<array>
-		<string>A'</string>
-		<string>V</string>
-		<string>Agrave</string>
 		<string>Aacute</string>
+		<string>Abreve</string>
 		<string>Acircumflex</string>
-		<string>Atilde</string>
 		<string>Adieresis</string>
-		<string>Aring</string>
-		<string>AE</string>
-	</array>
-	<key>.Aright</key>
-	<array>
-		<string>A'</string>
-		<string>V</string>
-		<string>W</string>
 		<string>Agrave</string>
-		<string>Aacute</string>
-		<string>Acircumflex</string>
-		<string>Atilde</string>
-		<string>Adieresis</string>
+		<string>Amacron</string>
+		<string>Aogonek</string>
 		<string>Aring</string>
+		<string>Atilde</string>
+		<string>uni0202</string>
 	</array>
-	<key>.Hleft</key>
+	<key>@MMK_L_B_Left</key>
 	<array>
-		<string>H'</string>
-		<string>B</string>
-		<string>D</string>
-		<string>E</string>
-		<string>F</string>
-		<string>K</string>
-		<string>L</string>
+	</array>
+	<key>@MMK_L_H_Left</key>
+	<array>
 		<string>M</string>
 		<string>N</string>
-		<string>P</string>
-		<string>R</string>
-		<string>Egrave</string>
-		<string>Eacute</string>
-		<string>Ecircumflex</string>
-		<string>Edieresis</string>
-		<string>Ntilde</string>
-		<string>Thorn</string>
-		<string>germandbls</string>
-	</array>
-	<key>.Hright</key>
-	<array>
-		<string>H'</string>
-		<string>J</string>
-		<string>M</string>
-		<string>N</string>
+		<string>Nacute</string>
 		<string>Ntilde</string>
 	</array>
-	<key>.Oleft</key>
+	<key>@MMK_L_O_Left</key>
 	<array>
-		<string>O'</string>
-		<string>C</string>
-		<string>G</string>
-		<string>Q</string>
-		<string>OE</string>
-		<string>Ccedilla</string>
-		<string>Ograve</string>
-		<string>Oacute</string>
-		<string>Ocircumflex</string>
-		<string>Otilde</string>
-		<string>Odieresis</string>
-		<string>Oslash</string>
-	</array>
-	<key>.Oright</key>
-	<array>
-		<string>O'</string>
-		<string>D</string>
-		<string>D</string>
-		<string>Q</string>
 		<string>Eth</string>
-		<string>Ograve</string>
+		<string>O</string>
 		<string>Oacute</string>
 		<string>Ocircumflex</string>
-		<string>Otilde</string>
 		<string>Odieresis</string>
+		<string>Ograve</string>
 		<string>Oslash</string>
+		<string>Otilde</string>
+		<string>Q</string>
+		<string>uni020C</string>
+		<string>uni020E</string>
 	</array>
-	<key>.U</key>
+	<key>@MMK_L_P_Left</key>
 	<array>
-		<string>U'</string>
-		<string>Ugrave</string>
+	</array>
+	<key>@MMK_L_R_Left</key>
+	<array>
+		<string>Racute</string>
+		<string>Rcaron</string>
+		<string>Rcommaaccent</string>
+		<string>uni0210</string>
+		<string>uni0212</string>
+	</array>
+	<key>@MMK_L_S_Left</key>
+	<array>
+		<string>Sacute</string>
+		<string>Scaron</string>
+		<string>uni0218</string>
+	</array>
+	<key>@MMK_L_T_Left</key>
+	<array>
+		<string>Tcommaaccent</string>
+		<string>uni021A</string>
+	</array>
+	<key>@MMK_L_U_Left</key>
+	<array>
 		<string>Uacute</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
+		<string>Ugrave</string>
+		<string>uni0216</string>
 	</array>
-	<key>.Xleft</key>
+	<key>@MMK_L_V_Left</key>
 	<array>
-		<string>X'</string>
 	</array>
-	<key>.Xright</key>
+	<key>@MMK_L_W_Left</key>
 	<array>
-		<string>X'</string>
+	</array>
+	<key>@MMK_L_X_Left</key>
+	<array>
+	</array>
+	<key>@MMK_L_Y_Left</key>
+	<array>
+		<string>Yacute</string>
+		<string>Ydieresis</string>
+	</array>
+	<key>@MMK_L_k_Left</key>
+	<array>
+		<string>kcommaaccent</string>
+		<string>kgreenlandic</string>
+	</array>
+	<key>@MMK_L_n_Left</key>
+	<array>
+		<string>hbar</string>
+		<string>m</string>
+		<string>n</string>
+		<string>nacute</string>
+		<string>ntilde</string>
+	</array>
+	<key>@MMK_L_o_Left</key>
+	<array>
+		<string>o</string>
+		<string>oacute</string>
+		<string>ocircumflex</string>
+		<string>odieresis</string>
+		<string>ograve</string>
+		<string>oslash</string>
+		<string>otilde</string>
+		<string>p</string>
+		<string>thorn</string>
+		<string>uni020F</string>
+	</array>
+	<key>@MMK_L_r_Left</key>
+	<array>
+		<string>rcaron</string>
+		<string>rcommaaccent</string>
+		<string>uni0213</string>
+	</array>
+	<key>@MMK_L_t_Left</key>
+	<array>
+		<string>tcommaaccent</string>
+		<string>uni021B</string>
+	</array>
+	<key>@MMK_L_v_Left</key>
+	<array>
+	</array>
+	<key>@MMK_L_w_Left</key>
+	<array>
+	</array>
+	<key>@MMK_L_y_Left</key>
+	<array>
+		<string>yacute</string>
+		<string>ydieresis</string>
+	</array>
+	<key>@MMK_R_A_Right</key>
+	<array>
+		<string>A'</string>
+		<string>Aacute</string>
+		<string>Abreve</string>
+		<string>Acircumflex</string>
+		<string>Adieresis</string>
+		<string>Agrave</string>
+		<string>Amacron</string>
+		<string>Aogonek</string>
+		<string>Aring</string>
+		<string>Atilde</string>
+		<string>uni0202</string>
+	</array>
+	<key>@MMK_R_H_Right</key>
+	<array>
+		<string>D'</string>
+		<string>E</string>
+		<string>Eacute</string>
+		<string>Ecircumflex</string>
+		<string>Edieresis</string>
+		<string>Egrave</string>
+		<string>Emacron</string>
+		<string>Eogonek</string>
+		<string>F</string>
+		<string>H</string>
 		<string>K</string>
+		<string>L</string>
+		<string>Lslash</string>
+		<string>M</string>
+		<string>N</string>
+		<string>Nacute</string>
+		<string>Ntilde</string>
+		<string>P</string>
+		<string>Thorn</string>
+		<string>R</string>
+		<string>Racute</string>
+		<string>Rcaron</string>
+		<string>Rcommaaccent</string>
+		<string>uni0206</string>
+		<string>uni0210</string>
+		<string>uni0212</string>
 	</array>
-	<key>.dright</key>
+	<key>@MMK_R_O_Right</key>
 	<array>
-		<string>d'</string>
+		<string>C'</string>
+		<string>Cacute</string>
+		<string>Ccaron</string>
+		<string>Ccedilla</string>
+		<string>G</string>
+		<string>O</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Odieresis</string>
+		<string>Ograve</string>
+		<string>Oslash</string>
+		<string>Otilde</string>
+		<string>OE</string>
+		<string>Q</string>
+		<string>Gcedilla</string>
+		<string>uni020C</string>
+		<string>uni020E</string>
+	</array>
+	<key>@MMK_R_S_Right</key>
+	<array>
+		<string>S'</string>
+		<string>Sacute</string>
+		<string>Scaron</string>
+		<string>uni0218</string>
+	</array>
+	<key>@MMK_R_T_Right</key>
+	<array>
+		<string>T'</string>
+		<string>Tcommaaccent</string>
+		<string>uni021A</string>
+	</array>
+	<key>@MMK_R_U_Right</key>
+	<array>
+		<string>U'</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Ugrave</string>
+		<string>uni0216</string>
+	</array>
+	<key>@MMK_R_V_Right</key>
+	<array>
+		<string>V'</string>
+	</array>
+	<key>@MMK_R_W_Right</key>
+	<array>
+		<string>W'</string>
+	</array>
+	<key>@MMK_R_Y_Right</key>
+	<array>
+		<string>Y'</string>
+		<string>Yacute</string>
+		<string>Ydieresis</string>
+	</array>
+	<key>@MMK_R_a_Right</key>
+	<array>
+		<string>a'</string>
+		<string>aacute</string>
+		<string>abreve</string>
+		<string>acircumflex</string>
+		<string>adieresis</string>
+		<string>agrave</string>
+		<string>amacron</string>
+		<string>aogonek</string>
+		<string>aring</string>
+		<string>atilde</string>
+		<string>ae</string>
+		<string>uni0203</string>
+	</array>
+	<key>@MMK_R_n_Right</key>
+	<array>
+		<string>m'</string>
+		<string>n</string>
+		<string>nacute</string>
+		<string>ntilde</string>
+	</array>
+	<key>@MMK_R_o_Right</key>
+	<array>
+		<string>c'</string>
+		<string>cacute</string>
+		<string>ccaron</string>
+		<string>ccedilla</string>
+		<string>d</string>
+		<string>eth</string>
+		<string>e</string>
+		<string>eacute</string>
+		<string>ecircumflex</string>
+		<string>edieresis</string>
+		<string>egrave</string>
+		<string>emacron</string>
+		<string>eogonek</string>
+		<string>o</string>
+		<string>oacute</string>
+		<string>ocircumflex</string>
+		<string>odieresis</string>
+		<string>ograve</string>
+		<string>oslash</string>
+		<string>otilde</string>
+		<string>oe</string>
 		<string>q</string>
-		<string>ugrave</string>
+		<string>uni0207</string>
+		<string>uni020F</string>
+	</array>
+	<key>@MMK_R_u_Left</key>
+	<array>
+		<string>u'</string>
 		<string>uacute</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
+		<string>ugrave</string>
+		<string>uni0217</string>
 	</array>
-	<key>.eright</key>
-	<array>
-		<string>e'</string>
-		<string>ae</string>
-		<string>oe</string>
-		<string>egrave</string>
-		<string>eacute</string>
-		<string>ecircumflex</string>
-		<string>edieresis</string>
-	</array>
-	<key>.l</key>
-	<array>
-		<string>l'</string>
-		<string>i</string>
-	</array>
-	<key>.nleft</key>
-	<array>
-		<string>n'</string>
-		<string>b</string>
-		<string>h</string>
-		<string>k</string>
-		<string>m</string>
-		<string>p</string>
-		<string>r</string>
-		<string>ntilde</string>
-		<string>thorn</string>
-	</array>
-	<key>.nright</key>
-	<array>
-		<string>n'</string>
-		<string>h</string>
-		<string>m</string>
-		<string>ntilde</string>
-	</array>
-	<key>.oleft</key>
-	<array>
-		<string>o'</string>
-		<string>c</string>
-		<string>d</string>
-		<string>e</string>
-		<string>g</string>
-		<string>q</string>
-		<string>oe</string>
-		<string>ccedilla</string>
-		<string>egrave</string>
-		<string>eacute</string>
-		<string>ecircumflex</string>
-		<string>edieresis</string>
-		<string>eth</string>
-		<string>ograve</string>
-		<string>oacute</string>
-		<string>ocircumflex</string>
-		<string>otilde</string>
-		<string>odieresis</string>
-		<string>oslash</string>
-	</array>
-	<key>.oright</key>
-	<array>
-		<string>o'</string>
-		<string>b</string>
-		<string>p</string>
-		<string>ograve</string>
-		<string>oacute</string>
-		<string>ocircumflex</string>
-		<string>otilde</string>
-		<string>odieresis</string>
-		<string>oslash</string>
-		<string>thorn</string>
-	</array>
-	<key>.vleft</key>
+	<key>@MMK_R_v_Left</key>
 	<array>
 		<string>v'</string>
-		<string>w</string>
-		<string>y</string>
 	</array>
-	<key>.xleft</key>
+	<key>@MMK_R_w_Left</key>
 	<array>
-		<string>x'</string>
+		<string>w'</string>
 	</array>
-	<key>.xright</key>
+	<key>@MMK_R_y_Left</key>
 	<array>
-		<string>x'</string>
-		<string>k</string>
+		<string>y'</string>
+		<string>yacute</string>
+		<string>ydieresis</string>
 	</array>
 </dict>
 </plist>

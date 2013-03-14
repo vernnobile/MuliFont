@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="X" format="1">
+  <advance width="1304"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="648" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="646" y="630" type="line"/>
+      <point x="1072" y="0" type="line"/>
+      <point x="1285" y="0" type="line"/>
+      <point x="764" y="742" type="line"/>
+      <point x="1275" y="1456" type="line"/>
+      <point x="1079" y="1456" type="line"/>
+      <point x="662" y="854" type="line"/>
+      <point x="263" y="1456" type="line"/>
+      <point x="47" y="1456" type="line"/>
+      <point x="548" y="741" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="215" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

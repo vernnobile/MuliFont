@@ -5,35 +5,28 @@
   <outline>
     <contour>
       <point x="88" y="722" type="line"/>
-      <point x="88" y="539" type="line"/>
-      <point x="454" y="539" type="line"/>
-      <point x="454" y="448" type="line"/>
-      <point x="88" y="448" type="line"/>
-      <point x="88" y="271" type="line"/>
-      <point x="462" y="271" type="line"/>
-      <point x="462" y="0" type="line"/>
-      <point x="705" y="0" type="line"/>
-      <point x="705" y="271" type="line"/>
-      <point x="1058" y="271" type="line"/>
-      <point x="1058" y="448" type="line"/>
-      <point x="697" y="448" type="line"/>
-      <point x="697" y="539" type="line"/>
-      <point x="1056" y="539" type="line"/>
-      <point x="1056" y="722" type="line"/>
-      <point x="743" y="722" type="line"/>
-      <point x="1168" y="1393" type="line"/>
-      <point x="899" y="1393" type="line"/>
-      <point x="587" y="852" type="line"/>
-      <point x="269" y="1393" type="line"/>
-      <point x="-21" y="1393" type="line"/>
       <point x="384" y="722" type="line"/>
+      <point x="-21" y="1393" type="line"/>
+      <point x="269" y="1393" type="line"/>
+      <point x="587" y="852" type="line"/>
+      <point x="899" y="1393" type="line"/>
+      <point x="1168" y="1393" type="line"/>
+      <point x="743" y="722" type="line"/>
+      <point x="1056" y="722" type="line"/>
+      <point x="1056" y="539" type="line"/>
+      <point x="697" y="539" type="line"/>
+      <point x="697" y="448" type="line"/>
+      <point x="1058" y="448" type="line"/>
+      <point x="1058" y="271" type="line"/>
+      <point x="705" y="271" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="462" y="271" type="line"/>
+      <point x="88" y="271" type="line"/>
+      <point x="88" y="448" type="line"/>
+      <point x="454" y="448" type="line"/>
+      <point x="454" y="539" type="line"/>
+      <point x="88" y="539" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

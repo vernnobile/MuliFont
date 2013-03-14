@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="503"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="250" y="1026" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="168" y="1492" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="333" y="0" type="line"/>
+      <point x="333" y="1492" type="line"/>
+    </contour>
+  </outline>
+</glyph>

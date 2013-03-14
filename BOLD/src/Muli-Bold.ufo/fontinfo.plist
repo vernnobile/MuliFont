@@ -11,38 +11,33 @@
 	<key>descender</key>
 	<integer>-400</integer>
 	<key>familyName</key>
-	<string>Muli</string>
+	<string>Muli Bold</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Muli</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
-	<key>openTypeHheaAscender</key>
-	<integer>1978</integer>
-	<key>openTypeHheaDescender</key>
-	<integer>-679</integer>
-	<key>openTypeHheaLineGap</key>
-	<integer>0</integer>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/04/18 22:53:36</string>
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Muli Bold</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
+	<key>openTypeNameDesigner</key>
+	<string>vernon adams</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Muli</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Bold</string>
-	<key>openTypeOS2CodePageRanges</key>
-	<array>
-	</array>
+	<key>openTypeNameVersion</key>
+	<string>Version </string>
 	<key>openTypeOS2FamilyClass</key>
 	<array>
-		<integer>8</integer>
-		<integer>5</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2Panose</key>
 	<array>
@@ -50,7 +45,7 @@
 		<integer>0</integer>
 		<integer>5</integer>
 		<integer>3</integer>
-		<integer>-4</integer>
+		<integer>0</integer>
 		<integer>0</integer>
 		<integer>0</integer>
 		<integer>15</integer>
@@ -79,6 +74,22 @@
 	<integer>5583</integer>
 	<key>openTypeOS2Type</key>
 	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>1978</integer>
@@ -88,77 +99,50 @@
 	<integer>0</integer>
 	<key>openTypeOS2UnicodeRanges</key>
 	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>6</integer>
+		<integer>7</integer>
+		<integer>31</integer>
+		<integer>32</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+		<integer>38</integer>
+		<integer>45</integer>
+		<integer>60</integer>
+		<integer>62</integer>
 	</array>
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>700</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>1978</integer>
 	<key>openTypeOS2WinDescent</key>
 	<integer>679</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
 	<key>postscriptBlueValues</key>
-	<array>
-		<integer>0</integer>
-		<integer>44</integer>
-		<integer>0</integer>
-		<integer>19</integer>
-		<integer>1960</integer>
-		<integer>2008</integer>
-		<integer>2782</integer>
-		<integer>2833</integer>
-	</array>
-	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
-	<key>postscriptFamilyBlues</key>
-	<array>
-	</array>
-	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
 	<key>postscriptFontName</key>
 	<string>Muli-Bold</string>
-	<key>postscriptForceBold</key>
-	<false/>
 	<key>postscriptFullName</key>
 	<string>Muli Bold</string>
-	<key>postscriptIsFixedPitch</key>
-	<false/>
 	<key>postscriptOtherBlues</key>
-	<array>
-		<integer>-422</integer>
-		<integer>-422</integer>
-		<integer>46</integer>
-		<integer>23</integer>
-	</array>
-	<key>postscriptSlantAngle</key>
-	<real>-0.0</real>
-	<key>postscriptStemSnapH</key>
-	<array>
-	</array>
-	<key>postscriptStemSnapV</key>
 	<array>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-237</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>119</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
 	<key>postscriptWeightName</key>
 	<string>Bold</string>
-	<key>postscriptWindowsCharacterSet</key>
-	<integer>1</integer>
-	<key>styleMapFamilyName</key>
-	<string>Muli</string>
 	<key>styleMapStyleName</key>
-	<string>bold</string>
+	<string>regular</string>
 	<key>styleName</key>
 	<string>Bold</string>
 	<key>trademark</key>
@@ -168,10 +152,8 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>1026</integer>
-	<key>year</key>
-	<integer>2011</integer>
 </dict>
 </plist>

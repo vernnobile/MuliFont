@@ -5,31 +5,24 @@
   <outline>
     <contour>
       <point x="1077" y="1026" type="line"/>
-      <point x="756" y="1026" type="line"/>
-      <point x="385" y="618" type="line"/>
-      <point x="385" y="1026" type="line"/>
-      <point x="150" y="1026" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="385" y="0" type="line"/>
-      <point x="385" y="399" type="line"/>
-      <point x="799" y="0" type="line"/>
-      <point x="1112" y="0" type="line"/>
-      <point x="938" y="158"/>
-      <point x="862" y="229"/>
-      <point x="816" y="274" type="curve" smooth="yes"/>
-      <point x="804" y="285"/>
-      <point x="794" y="294"/>
-      <point x="781" y="307" type="curve" smooth="yes"/>
-      <point x="740" y="346"/>
+      <point x="563" y="509" type="line"/>
       <point x="687" y="395"/>
-      <point x="563" y="509" type="curve"/>
+      <point x="740" y="346"/>
+      <point x="781" y="307" type="curve" smooth="yes"/>
+      <point x="794" y="294"/>
+      <point x="804" y="285"/>
+      <point x="816" y="274" type="curve" smooth="yes"/>
+      <point x="862" y="229"/>
+      <point x="938" y="158"/>
+      <point x="1112" y="0" type="curve"/>
+      <point x="799" y="0" type="line"/>
+      <point x="385" y="399" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="150" y="1026" type="line"/>
+      <point x="385" y="1026" type="line"/>
+      <point x="385" y="618" type="line"/>
+      <point x="756" y="1026" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

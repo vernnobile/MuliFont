@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="P" format="1">
+  <advance width="1274"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="710" y="1455" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="710" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="356" y="603" type="line"/>
+      <point x="602" y="603" type="line" smooth="yes"/>
+      <point x="919" y="603"/>
+      <point x="1197" y="729"/>
+      <point x="1197" y="1029" type="curve" smooth="yes"/>
+      <point x="1197" y="1377"/>
+      <point x="889" y="1456"/>
+      <point x="552" y="1456" type="curve" smooth="yes"/>
+      <point x="224" y="1456" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="1342" type="line"/>
+      <point x="596" y="1342" type="line" smooth="yes"/>
+      <point x="872" y="1342"/>
+      <point x="1060" y="1278"/>
+      <point x="1060" y="1025" type="curve" smooth="yes"/>
+      <point x="1060" y="812"/>
+      <point x="887" y="717"/>
+      <point x="647" y="717" type="curve" smooth="yes"/>
+      <point x="356" y="717" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

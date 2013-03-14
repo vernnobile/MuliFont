@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccent" format="1">
   <advance width="599"/>
-  <unicode hex="F6C3"/>
+  <unicode hex="0326"/>
   <outline>
     <contour>
       <point x="61" y="-623" type="line"/>
-      <point x="260" y="-623" type="line"/>
-      <point x="436" y="-124" type="line"/>
       <point x="171" y="-124" type="line"/>
+      <point x="436" y="-124" type="line"/>
+      <point x="260" y="-623" type="line"/>
+    </contour>
+    <contour>
+      <point x="248.5" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccent" format="1">
+  <advance width="599"/>
+  <unicode hex="F6C3"/>
+  <outline>
+    <contour>
+      <point x="316" y="0" type="move" name="_bot"/>
+    </contour>
+    <contour>
+      <point x="140" y="-559" type="line"/>
+      <point x="231" y="-559" type="line"/>
+      <point x="386" y="-118" type="line"/>
+      <point x="246" y="-118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

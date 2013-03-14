@@ -4,32 +4,25 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="731" y="1456" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="731" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="414" y="364" type="line"/>
-      <point x="1038" y="364" type="line"/>
-      <point x="1182" y="0" type="line"/>
-      <point x="1454" y="0" type="line"/>
-      <point x="848" y="1456" type="line"/>
-      <point x="609" y="1456" type="line"/>
-      <point x="8" y="0" type="line"/>
       <point x="273" y="0" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="609" y="1456" type="line"/>
+      <point x="848" y="1456" type="line"/>
+      <point x="1454" y="0" type="line"/>
+      <point x="1182" y="0" type="line"/>
+      <point x="1038" y="364" type="line"/>
     </contour>
     <contour>
       <point x="724" y="1179" type="line"/>
-      <point x="946" y="586" type="line"/>
       <point x="498" y="586" type="line"/>
+      <point x="946" y="586" type="line"/>
+    </contour>
+    <contour>
+      <point x="731" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1316" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

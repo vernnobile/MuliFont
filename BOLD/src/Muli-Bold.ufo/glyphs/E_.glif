@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1237"/>
+  <advance width="1209"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="661" y="1456" type="move" name="top"/>
+      <point x="403" y="207" type="line"/>
+      <point x="1098" y="207" type="line"/>
+      <point x="1098" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="1456" type="line"/>
+      <point x="1069" y="1456" type="line"/>
+      <point x="1069" y="1249" type="line"/>
+      <point x="401" y="1249" type="line"/>
+      <point x="401" y="849" type="line"/>
+      <point x="1032" y="849" type="line"/>
+      <point x="1032" y="641" type="line"/>
+      <point x="403" y="641" type="line"/>
     </contour>
     <contour>
-      <point x="661" y="0" type="move" name="bot"/>
+      <point x="605" y="1456" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="436" y="207" type="line"/>
-      <point x="436" y="641" type="line"/>
-      <point x="1065" y="641" type="line"/>
-      <point x="1065" y="849" type="line"/>
-      <point x="434" y="849" type="line"/>
-      <point x="434" y="1249" type="line"/>
-      <point x="1102" y="1249" type="line"/>
-      <point x="1102" y="1456" type="line"/>
-      <point x="192" y="1456" type="line"/>
-      <point x="192" y="0" type="line"/>
-      <point x="1131" y="0" type="line"/>
-      <point x="1131" y="207" type="line"/>
+      <point x="605" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1088" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

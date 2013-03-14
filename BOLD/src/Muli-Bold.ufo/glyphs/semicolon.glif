@@ -5,22 +5,15 @@
   <outline>
     <contour>
       <point x="72" y="-240" type="line"/>
-      <point x="271" y="-240" type="line"/>
-      <point x="447" y="259" type="line"/>
       <point x="180" y="259" type="line"/>
+      <point x="447" y="259" type="line"/>
+      <point x="271" y="-240" type="line"/>
     </contour>
     <contour>
       <point x="425" y="1141" type="line"/>
-      <point x="178" y="1141" type="line"/>
-      <point x="178" y="879" type="line"/>
       <point x="425" y="879" type="line"/>
+      <point x="178" y="879" type="line"/>
+      <point x="178" y="1141" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

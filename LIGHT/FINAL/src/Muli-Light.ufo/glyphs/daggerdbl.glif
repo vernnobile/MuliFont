@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="1022"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="454" y="546" type="line"/>
+      <point x="118" y="546" type="line"/>
+      <point x="118" y="451" type="line"/>
+      <point x="429" y="451" type="line"/>
+      <point x="429" y="116" type="line"/>
+      <point x="552" y="116" type="line"/>
+      <point x="552" y="451" type="line"/>
+      <point x="910" y="451" type="line"/>
+      <point x="910" y="546" type="line"/>
+      <point x="580" y="546" type="line"/>
+      <point x="580" y="1020" type="line"/>
+      <point x="915" y="1020" type="line"/>
+      <point x="915" y="1118" type="line"/>
+      <point x="577" y="1118" type="line"/>
+      <point x="602" y="1467" type="line"/>
+      <point x="483" y="1467" type="line"/>
+      <point x="483" y="1118" type="line"/>
+      <point x="126" y="1118" type="line"/>
+      <point x="126" y="1020" type="line"/>
+      <point x="454" y="1020" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

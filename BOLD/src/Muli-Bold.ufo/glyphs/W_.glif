@@ -4,32 +4,22 @@
   <unicode hex="0057"/>
   <outline>
     <contour>
-      <point x="1051" y="1456" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="1051" y="0" type="move" name="bot"/>
-    </contour>
-    <contour>
       <point x="941" y="1456" type="line"/>
-      <point x="588" y="312" type="line"/>
-      <point x="276" y="1456" type="line"/>
-      <point x="14" y="1456" type="line"/>
-      <point x="436" y="0" type="line"/>
-      <point x="703" y="0" type="line"/>
-      <point x="1051" y="1142" type="line"/>
-      <point x="1393" y="0" type="line"/>
-      <point x="1667" y="0" type="line"/>
-      <point x="2088" y="1456" type="line"/>
-      <point x="1834" y="1456" type="line"/>
-      <point x="1535" y="308" type="line"/>
       <point x="1174" y="1456" type="line"/>
+      <point x="1535" y="308" type="line"/>
+      <point x="1834" y="1456" type="line"/>
+      <point x="2088" y="1456" type="line"/>
+      <point x="1667" y="0" type="line"/>
+      <point x="1393" y="0" type="line"/>
+      <point x="1051" y="1142" type="line"/>
+      <point x="703" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="14" y="1456" type="line"/>
+      <point x="276" y="1456" type="line"/>
+      <point x="588" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="1052" y="1456" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

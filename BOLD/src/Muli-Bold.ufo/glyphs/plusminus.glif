@@ -5,30 +5,23 @@
   <outline>
     <contour>
       <point x="1174" y="0" type="line"/>
-      <point x="1174" y="192" type="line"/>
-      <point x="227" y="192" type="line"/>
       <point x="227" y="0" type="line"/>
+      <point x="227" y="192" type="line"/>
+      <point x="1174" y="192" type="line"/>
     </contour>
     <contour>
       <point x="229" y="749" type="line"/>
-      <point x="229" y="557" type="line"/>
-      <point x="586" y="557" type="line"/>
-      <point x="586" y="249" type="line"/>
-      <point x="814" y="249" type="line"/>
-      <point x="814" y="557" type="line"/>
-      <point x="1168" y="557" type="line"/>
-      <point x="1168" y="749" type="line"/>
-      <point x="805" y="749" type="line"/>
-      <point x="805" y="1062" type="line"/>
-      <point x="581" y="1062" type="line"/>
       <point x="581" y="749" type="line"/>
+      <point x="581" y="1062" type="line"/>
+      <point x="805" y="1062" type="line"/>
+      <point x="805" y="749" type="line"/>
+      <point x="1168" y="749" type="line"/>
+      <point x="1168" y="557" type="line"/>
+      <point x="814" y="557" type="line"/>
+      <point x="814" y="249" type="line"/>
+      <point x="586" y="249" type="line"/>
+      <point x="586" y="557" type="line"/>
+      <point x="229" y="557" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
