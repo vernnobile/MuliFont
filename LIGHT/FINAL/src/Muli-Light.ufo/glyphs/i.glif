@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="503"/>
+  <advance width="490"/>
   <unicode hex="0069"/>
   <outline>
-    <contour>
-      <point x="254" y="1026" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="254" y="0" type="move" name="bot"/>
-    </contour>
     <contour>
       <point x="200" y="1478" type="line"/>
       <point x="200" y="1354" type="line"/>
@@ -21,9 +15,18 @@
       <point x="315" y="1026" type="line"/>
       <point x="193" y="1026" type="line"/>
     </contour>
+    <contour>
+      <point x="254" y="1026" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="254" y="0" type="move" name="bot"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

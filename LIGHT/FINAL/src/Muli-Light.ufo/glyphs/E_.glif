@@ -1,31 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1218"/>
+  <advance width="1202"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="661" y="1455" type="move" name="top"/>
+      <point x="340" y="114" type="line"/>
+      <point x="340" y="691" type="line"/>
+      <point x="1012" y="691" type="line"/>
+      <point x="1012" y="804" type="line"/>
+      <point x="342" y="804" type="line"/>
+      <point x="342" y="1342" type="line"/>
+      <point x="1052" y="1342" type="line"/>
+      <point x="1052" y="1456" type="line"/>
+      <point x="210" y="1456" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="1080" y="0" type="line"/>
+      <point x="1080" y="114" type="line"/>
     </contour>
     <contour>
-      <point x="661" y="0" type="move" name="bot"/>
+      <point x="645" y="1455" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="356" y="114" type="line"/>
-      <point x="356" y="691" type="line"/>
-      <point x="1028" y="691" type="line"/>
-      <point x="1028" y="804" type="line"/>
-      <point x="358" y="804" type="line"/>
-      <point x="358" y="1342" type="line"/>
-      <point x="1068" y="1342" type="line"/>
-      <point x="1068" y="1456" type="line"/>
-      <point x="226" y="1456" type="line"/>
-      <point x="226" y="0" type="line"/>
-      <point x="1096" y="0" type="line"/>
-      <point x="1096" y="114" type="line"/>
+      <point x="645" y="0" type="move" name="bot"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>

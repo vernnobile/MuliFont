@@ -18,8 +18,6 @@
 	<integer>128</integer>
 	<key>macintoshFONDName</key>
 	<string>Muli</string>
-	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
 	<key>openTypeHheaAscender</key>
 	<integer>1978</integer>
 	<key>openTypeHheaDescender</key>
