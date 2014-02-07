@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="1">
+  <advance width="1675"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="276" y="584" type="line"/>
+      <point x="843" y="1456" type="line"/>
+      <point x="929" y="1456" type="line"/>
+      <point x="1292" y="584" type="line"/>
+      <point x="1161" y="584" type="line"/>
+      <point x="868" y="1309" type="line"/>
+      <point x="407" y="584" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>asciicircum</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1623.35</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odblgrave" format="1">
+  <advance width="1640"/>
+  <unicode hex="020C"/>
+  <outline>
+    <component base="O"/>
+    <component base="uni030F" xOffset="245" yOffset="430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

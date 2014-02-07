@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1517"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="53" y="518" type="line"/>
+      <point x="928" y="518" type="line"/>
+      <point x="935" y="630" type="line"/>
+      <point x="344" y="630" type="line"/>
+      <point x="342" y="838" type="line"/>
+      <point x="964" y="838" type="line"/>
+      <point x="971" y="956" type="line"/>
+      <point x="57" y="956" type="line"/>
+      <point x="52" y="838" type="line"/>
+      <point x="307" y="838" type="line"/>
+      <point x="310" y="630" type="line"/>
+      <point x="58" y="630" type="line"/>
+    </contour>
+    <component base="C" xOffset="115"/>
+  </outline>
+</glyph>

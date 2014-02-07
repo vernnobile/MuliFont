@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1334"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="-85" y="542" type="line"/>
+      <point x="790" y="542" type="line"/>
+      <point x="806" y="614" type="line"/>
+      <point x="175" y="614" type="line"/>
+      <point x="200" y="838" type="line"/>
+      <point x="862" y="838" type="line"/>
+      <point x="879" y="916" type="line"/>
+      <point x="-35" y="916" type="line"/>
+      <point x="-50" y="838" type="line"/>
+      <point x="165" y="838" type="line"/>
+      <point x="141" y="614" type="line"/>
+      <point x="-71" y="614" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1190</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

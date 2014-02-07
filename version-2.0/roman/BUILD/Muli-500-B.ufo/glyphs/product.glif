@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="1568"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="271" y="-100" type="line"/>
+      <point x="485" y="-100" type="line"/>
+      <point x="485" y="1283" type="line"/>
+      <point x="1073" y="1283" type="line"/>
+      <point x="1073" y="-100" type="line"/>
+      <point x="1292" y="-100" type="line"/>
+      <point x="1292" y="1283" type="line"/>
+      <point x="1431" y="1283" type="line"/>
+      <point x="1431" y="1456" type="line"/>
+      <point x="111" y="1456" type="line"/>
+      <point x="111" y="1283" type="line"/>
+      <point x="271" y="1283" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

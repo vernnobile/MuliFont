@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quoteright" format="1">
+  <advance width="612"/>
+  <unicode hex="2019"/>
+  <outline>
+    <contour>
+      <point x="78" y="869" type="line"/>
+      <point x="251" y="869" type="line"/>
+      <point x="512" y="1456" type="line"/>
+      <point x="242" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>436</real>
+                  <key>y</key>
+                  <real>869</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>286</real>
+                  <key>y</key>
+                  <real>869</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>122</real>
+                  <key>y</key>
+                  <real>1456</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>396</real>
+                  <key>y</key>
+                  <real>1456</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+            <key>com.typemytype.robofont.layerData</key>
+            <dict>
+              <key>b</key>
+              <dict>
+                <key>anchors</key>
+                <array/>
+                <key>components</key>
+                <array/>
+                <key>contours</key>
+                <array/>
+                <key>lib</key>
+                <dict/>
+                <key>name</key>
+                <string>quoteleft</string>
+                <key>unicodes</key>
+                <array/>
+                <key>width</key>
+                <integer>563</integer>
+              </dict>
+            </dict>
+          </dict>
+          <key>name</key>
+          <string>quoteright</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>612</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

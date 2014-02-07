@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzcaron" format="1">
+  <advance width="2542"/>
+  <unicode hex="01C5"/>
+  <outline>
+    <component base="caron" xOffset="1832"/>
+    <component base="z" xOffset="1555"/>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

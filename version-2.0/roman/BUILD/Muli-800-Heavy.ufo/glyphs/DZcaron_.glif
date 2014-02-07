@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dzcaron" format="1">
+  <advance width="2615"/>
+  <unicode hex="01C5"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="1601"/>
+    <component base="caron" xOffset="391" yOffset="430"/>
+  </outline>
+</glyph>

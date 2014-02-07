@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="1156.450"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="470" y="0" type="line"/>
+      <point x="682" y="0" type="line"/>
+      <point x="682" y="1276" type="line"/>
+      <point x="1146" y="1276" type="line"/>
+      <point x="1146" y="1456" type="line"/>
+      <point x="10" y="1456" type="line"/>
+      <point x="10" y="1276" type="line"/>
+      <point x="470" y="1276" type="line"/>
+    </contour>
+    <contour>
+      <point x="577" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="588" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="576" y="744" type="move" name="mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

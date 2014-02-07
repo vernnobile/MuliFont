@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="548.500"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="111" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="443" y="1026" type="line"/>
+      <point x="237" y="1026" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="1026" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="237" y="0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odblgrave" format="1">
+  <advance width="1230"/>
+  <unicode hex="020D"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni030F" xOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni020D</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1244</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

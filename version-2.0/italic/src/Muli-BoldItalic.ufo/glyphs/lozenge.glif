@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lozenge" format="1">
+  <advance width="1248"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="534" y="226" type="line"/>
+      <point x="876" y="697" type="line"/>
+      <point x="656" y="1154" type="line"/>
+      <point x="316" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="-40" type="line"/>
+      <point x="71" y="697" type="line"/>
+      <point x="607" y="1436" type="line"/>
+      <point x="770" y="1436" type="line"/>
+      <point x="1122" y="698" type="line"/>
+      <point x="582" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

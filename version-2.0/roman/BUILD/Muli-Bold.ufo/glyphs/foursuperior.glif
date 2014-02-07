@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="foursuperior" format="1">
+  <advance width="897"/>
+  <unicode hex="2074"/>
+  <outline>
+    <contour>
+      <point x="500" y="646" type="line"/>
+      <point x="672" y="646" type="line"/>
+      <point x="672" y="839" type="line"/>
+      <point x="788" y="839" type="line"/>
+      <point x="788" y="969" type="line"/>
+      <point x="672" y="969" type="line"/>
+      <point x="672" y="1456" type="line"/>
+      <point x="498" y="1456" type="line"/>
+      <point x="130" y="949" type="line"/>
+      <point x="130" y="839" type="line"/>
+      <point x="500" y="839" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="969" type="line"/>
+      <point x="498" y="1241" type="line"/>
+      <point x="498" y="969" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>foursuperior</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>897</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

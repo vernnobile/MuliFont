@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="1118"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="89" y="168" type="line"/>
+      <point x="252" y="168" type="line"/>
+      <point x="574" y="543" type="line"/>
+      <point x="349" y="916" type="line"/>
+      <point x="188" y="916" type="line"/>
+      <point x="382" y="543" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="168" type="line"/>
+      <point x="681" y="168" type="line"/>
+      <point x="1003" y="543" type="line"/>
+      <point x="778" y="916" type="line"/>
+      <point x="619" y="916" type="line"/>
+      <point x="812" y="543" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>guillemotright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1122.45</real>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

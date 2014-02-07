@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+  <advance width="1350"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="150" y="214" type="line"/>
+      <point x="1141" y="657" type="line"/>
+      <point x="1153" y="753" type="line"/>
+      <point x="277" y="1220" type="line"/>
+      <point x="257" y="1049" type="line"/>
+      <point x="916" y="708" type="line"/>
+      <point x="171" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="line"/>
+      <point x="1088" y="0" type="line"/>
+      <point x="1104" y="130" type="line"/>
+      <point x="129" y="130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>greaterequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1350.3499999999999</real>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="1143"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="514" y="0" type="line"/>
+      <point x="622" y="0" type="line"/>
+      <point x="622" y="349" type="line"/>
+      <point x="897" y="349" type="line"/>
+      <point x="897" y="415" type="line"/>
+      <point x="622" y="415" type="line"/>
+      <point x="622" y="533" type="line"/>
+      <point x="899" y="533" type="line"/>
+      <point x="899" y="599" type="line"/>
+      <point x="624.825" y="599" type="line"/>
+      <point x="1109" y="1456" type="line"/>
+      <point x="1004" y="1456" type="line"/>
+      <point x="570" y="683" type="line"/>
+      <point x="143" y="1456" type="line"/>
+      <point x="34" y="1456" type="line"/>
+      <point x="509.561" y="599" type="line"/>
+      <point x="232" y="599" type="line"/>
+      <point x="232" y="533" type="line"/>
+      <point x="514" y="533" type="line"/>
+      <point x="514" y="415" type="line"/>
+      <point x="232" y="415" type="line"/>
+      <point x="232" y="349" type="line"/>
+      <point x="514" y="349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>yen</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1225.45</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

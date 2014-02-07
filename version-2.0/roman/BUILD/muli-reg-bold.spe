@@ -1,0 +1,72 @@
+<?xml version='1.0'?>
+<designspace>
+<!-- Superpolator Designspace Object -->
+
+<!-- info -->
+<version format="100119_1225" superpolator="1" />
+<!-- application data -->
+<data name="zPreviewAxis" value="None" />
+<data name="horizontalPreviewAxis" value="new_axis_1" />
+<data name="preferLeftToRight" value="1" />
+<data name="previewTypeSize" value="64.0" />
+<data name="previewtext" value="(Welcomø /asciitilde /approxequal/onehalf" />
+<data name="verticalPreviewAxis" value="None" />
+<data name="projectionAngle" value="2.68561525327" />
+<!-- axis definitions -->
+<axis maximum="1000.0" minimum="0.0" name="new_axis_1" shortname="xx" />
+
+<!-- master definitions -->
+<master filename="Muli-200-Extra-Light.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="0.0" />
+</location>
+<!-- color for Muli-200-Extra-Light.ufo -->
+<color a="1.000000" b="0.000000" g="1.000000" r="0.500000" />
+</master>
+<master filename="Muli-500-B.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="500.0" />
+</location>
+<!-- color for Muli-500-B.ufo -->
+<color a="1.000000" b="0.500000" g="1.000000" r="1.000000" />
+</master>
+<master filename="Muli-Bold.ufo">
+<location>
+<dimension name="new_axis_1" xvalue="1000.0" />
+</location>
+<!-- color for Muli-Bold.ufo -->
+<color a="1.000000" b="1.000000" g="1.000000" r="0.000000" />
+</master>
+
+<!-- instance definitions -->
+<instance familyname="Muli" sequence="" stylename="Extra-Light">
+<location>
+<dimension name="None" xvalue="0.0" />
+<dimension name="new_axis_1" xvalue="0.0" />
+</location>
+</instance>
+<instance familyname="Muli" sequence="" stylename="Light">
+<location>
+<dimension name="None" xvalue="0.0" />
+<dimension name="new_axis_1" xvalue="200.0" />
+</location>
+</instance>
+<instance familyname="Muli" sequence="" stylename="Regular">
+<location>
+<dimension name="None" xvalue="0.0" />
+<dimension name="new_axis_1" xvalue="400.0" />
+</location>
+</instance>
+<instance familyname="Muli" sequence="" stylename="Semi-Bold">
+<location>
+<dimension name="None" xvalue="0.0" />
+<dimension name="new_axis_1" xvalue="800.0" />
+</location>
+</instance>
+<instance familyname="Muli" sequence="" stylename="Bold">
+<location>
+<dimension name="None" xvalue="0.0" />
+<dimension name="new_axis_1" xvalue="1200.0" />
+</location>
+</instance>
+</designspace>

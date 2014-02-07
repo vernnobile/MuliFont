@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fi" format="1">
+  <advance width="1237"/>
+  <unicode hex="FB01"/>
+  <outline>
+    <contour>
+      <point x="252.5" y="0" type="line"/>
+      <point x="252.5" y="901.15" type="line"/>
+      <point x="68.7" y="901.15" type="line"/>
+      <point x="68.7" y="1026" type="line"/>
+      <point x="252.5" y="1026" type="line"/>
+      <point x="252.5" y="1108.1" type="line" smooth="yes"/>
+      <point x="252.5" y="1371.35"/>
+      <point x="294.65" y="1489.2"/>
+      <point x="648.9" y="1489.2" type="curve" smooth="yes"/>
+      <point x="697" y="1489.2" type="line"/>
+      <point x="694.2" y="1341.95" type="line"/>
+      <point x="459.7" y="1341.95"/>
+      <point x="441.35" y="1298.05"/>
+      <point x="441.35" y="1125.15" type="curve" smooth="yes"/>
+      <point x="441.35" y="1026" type="line"/>
+      <point x="915.5" y="1026" type="line"/>
+      <point x="915.5" y="901.15" type="line"/>
+      <point x="441.35" y="901.15" type="line"/>
+      <point x="441.35" y="0" type="line"/>
+    </contour>
+    <component base="i" xOffset="715.150"/>
+  </outline>
+</glyph>

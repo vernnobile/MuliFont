@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesinglbase" format="1">
+  <advance width="445.391"/>
+  <unicode hex="201A"/>
+  <outline>
+    <contour>
+      <point x="207" y="-369" type="line"/>
+      <point x="271" y="-369" type="line"/>
+      <point x="287" y="158" type="line"/>
+      <point x="177" y="158" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>quotesinglbase</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>595.70000000000005</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

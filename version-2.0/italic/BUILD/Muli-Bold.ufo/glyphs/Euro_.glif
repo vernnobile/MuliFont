@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1476"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="87" y="508" type="line"/>
+      <point x="962" y="508" type="line"/>
+      <point x="982" y="620" type="line"/>
+      <point x="391" y="620" type="line"/>
+      <point x="415" y="828" type="line"/>
+      <point x="1037" y="828" type="line"/>
+      <point x="1058" y="946" type="line"/>
+      <point x="144" y="946" type="line"/>
+      <point x="125" y="828" type="line"/>
+      <point x="380" y="828" type="line"/>
+      <point x="357" y="620" type="line"/>
+      <point x="105" y="620" type="line"/>
+    </contour>
+    <component base="C" xOffset="165"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>euro</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1190</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

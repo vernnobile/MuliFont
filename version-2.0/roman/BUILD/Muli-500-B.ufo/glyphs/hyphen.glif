@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="699.750"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="60" y="477" type="line"/>
+      <point x="640" y="477" type="line"/>
+      <point x="640" y="636" type="line"/>
+      <point x="60" y="636" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="552" type="move" name="_mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

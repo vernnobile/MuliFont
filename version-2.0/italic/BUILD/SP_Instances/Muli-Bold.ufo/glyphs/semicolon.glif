@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="539"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="-21" y="-229" type="line"/>
+      <point x="190" y="-229" type="line"/>
+      <point x="429" y="268" type="line"/>
+      <point x="148" y="268" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="900" type="line"/>
+      <point x="484" y="900" type="line"/>
+      <point x="517" y="1171" type="line"/>
+      <point x="265" y="1171" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

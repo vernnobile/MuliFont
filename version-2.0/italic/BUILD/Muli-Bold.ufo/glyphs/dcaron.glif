@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="1">
+  <advance width="1267"/>
+  <unicode hex="010F"/>
+  <outline>
+    <component base="d"/>
+    <component base="caron.alt" xOffset="1003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>dcaron</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1535</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

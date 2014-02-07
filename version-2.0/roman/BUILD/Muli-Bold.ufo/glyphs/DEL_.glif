@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DEL" format="1">
+  <advance width="1521"/>
+  <unicode hex="007F"/>
+  <outline>
+    <contour>
+      <point x="360" y="124" type="line"/>
+      <point x="360" y="1330" type="line"/>
+      <point x="1161" y="1330" type="line"/>
+      <point x="1161" y="124" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="0" type="line"/>
+      <point x="1333" y="0" type="line"/>
+      <point x="1333" y="1456" type="line"/>
+      <point x="188" y="1456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

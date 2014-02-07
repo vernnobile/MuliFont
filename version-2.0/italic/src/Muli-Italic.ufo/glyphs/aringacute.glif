@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute" format="1">
+  <advance width="1273"/>
+  <unicode hex="01FB"/>
+  <outline>
+    <component base="a"/>
+    <component base="acute" xOffset="609" yOffset="450"/>
+    <component base="ring" xOffset="377"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

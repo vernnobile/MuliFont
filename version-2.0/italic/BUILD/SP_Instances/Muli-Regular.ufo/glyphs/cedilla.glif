@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="529"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="244" y="0" type="move" name="_bot"/>
+    </contour>
+    <contour>
+      <point x="193" y="-447" type="curve" smooth="yes"/>
+      <point x="337" y="-448"/>
+      <point x="457" y="-390"/>
+      <point x="471" y="-279" type="curve" smooth="yes"/>
+      <point x="481" y="-189"/>
+      <point x="398" y="-132"/>
+      <point x="262" y="-119" type="curve"/>
+      <point x="298" y="9" type="line"/>
+      <point x="201" y="9" type="line"/>
+      <point x="145" y="-187" type="line"/>
+      <point x="167" y="-187" type="line" smooth="yes"/>
+      <point x="287" y="-187"/>
+      <point x="321" y="-235"/>
+      <point x="315" y="-274" type="curve" smooth="yes"/>
+      <point x="310" y="-321"/>
+      <point x="265" y="-350"/>
+      <point x="196" y="-349" type="curve" smooth="yes"/>
+      <point x="139" y="-349"/>
+      <point x="69" y="-333"/>
+      <point x="45" y="-322" type="curve"/>
+      <point x="21" y="-419" type="line"/>
+      <point x="52" y="-430"/>
+      <point x="128" y="-447"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cedilla</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>529</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

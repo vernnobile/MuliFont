@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="832"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="t"/>
+    <component base="caron.alt" xOffset="210" yOffset="258"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

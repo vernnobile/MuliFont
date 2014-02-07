@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecaron" format="1">
+  <advance width="1133"/>
+  <unicode hex="011B"/>
+  <outline>
+    <component base="e"/>
+    <component base="caron" xOffset="344"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>ecaron</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1162.8499999999999</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1869"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="781" y="690" type="line"/>
+      <point x="903" y="690" type="line"/>
+      <point x="972" y="1259" type="line"/>
+      <point x="1155" y="690" type="line"/>
+      <point x="1243" y="690" type="line"/>
+      <point x="1570" y="1264" type="line"/>
+      <point x="1499" y="690" type="line"/>
+      <point x="1623" y="690" type="line"/>
+      <point x="1719" y="1460" type="line"/>
+      <point x="1564" y="1460" type="line"/>
+      <point x="1224" y="877" type="line"/>
+      <point x="1037" y="1460" type="line"/>
+      <point x="876" y="1460" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="690" type="line"/>
+      <point x="414" y="690" type="line"/>
+      <point x="494" y="1341" type="line"/>
+      <point x="741" y="1341" type="line"/>
+      <point x="756" y="1460" type="line"/>
+      <point x="119" y="1460" type="line"/>
+      <point x="104" y="1341" type="line"/>
+      <point x="353" y="1341" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>trademark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1869.0</real>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

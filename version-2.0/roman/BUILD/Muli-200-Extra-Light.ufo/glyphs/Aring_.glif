@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aring" format="1">
+  <advance width="1329"/>
+  <unicode hex="00C5"/>
+  <outline>
+    <component base="A"/>
+    <component base="ring" xOffset="397" yOffset="430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Aring</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1407.4000000000001</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

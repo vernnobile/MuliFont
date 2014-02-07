@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="2055"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="816" y="-24" type="curve" smooth="yes"/>
+      <point x="986.3" y="-19.1893"/>
+      <point x="1087.17" y="62.4568"/>
+      <point x="1091" y="68.6308" type="curve"/>
+      <point x="1091" y="2.63138e-06" type="line"/>
+      <point x="1951" y="2.63138e-06" type="line"/>
+      <point x="1951" y="207" type="line"/>
+      <point x="1335" y="207" type="line"/>
+      <point x="1335" y="641" type="line"/>
+      <point x="1885" y="641" type="line"/>
+      <point x="1885" y="849" type="line"/>
+      <point x="1333" y="849" type="line"/>
+      <point x="1333" y="1249" type="line"/>
+      <point x="1922" y="1249" type="line"/>
+      <point x="1922" y="1456" type="line"/>
+      <point x="1091" y="1456" type="line"/>
+      <point x="1091" y="1396" type="line" smooth="yes"/>
+      <point x="1091" y="1395"/>
+      <point x="1007" y="1490"/>
+      <point x="768" y="1482" type="curve" smooth="yes"/>
+      <point x="403" y="1470"/>
+      <point x="106" y="1194"/>
+      <point x="106" y="731" type="curve" smooth="yes"/>
+      <point x="106" y="210"/>
+      <point x="424" y="-36"/>
+    </contour>
+    <contour>
+      <point x="820" y="167" type="curve" smooth="yes"/>
+      <point x="545" y="167"/>
+      <point x="367" y="366"/>
+      <point x="367" y="725" type="curve" smooth="yes"/>
+      <point x="367" y="1099"/>
+      <point x="566" y="1257"/>
+      <point x="785" y="1275" type="curve" smooth="yes"/>
+      <point x="953" y="1289"/>
+      <point x="1043" y="1236"/>
+      <point x="1091" y="1195" type="curve"/>
+      <point x="1091" y="253" type="line"/>
+      <point x="1090" y="253"/>
+      <point x="1021" y="167"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>OE</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>2055</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

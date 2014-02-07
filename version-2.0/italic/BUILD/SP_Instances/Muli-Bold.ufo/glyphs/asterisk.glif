@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="1054"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="624" y="644" type="line"/>
+      <point x="823" y="771" type="line"/>
+      <point x="635" y="1002" type="line"/>
+      <point x="929" y="1110" type="line"/>
+      <point x="868" y="1289" type="line"/>
+      <point x="605" y="1164" type="line"/>
+      <point x="675" y="1456" type="line"/>
+      <point x="440" y="1456" type="line"/>
+      <point x="435" y="1164" type="line"/>
+      <point x="207" y="1289" type="line"/>
+      <point x="99" y="1110" type="line"/>
+      <point x="364" y="1002" type="line"/>
+      <point x="119" y="770" type="line"/>
+      <point x="287" y="643" type="line"/>
+      <point x="486" y="892" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>567</integer>
+          <key>y</key>
+          <integer>1149</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>asterisk</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1107.9000000000001</real>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

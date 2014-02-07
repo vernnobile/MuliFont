@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="1177.355"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="303" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="1134" y="1376" type="line"/>
+      <point x="1143" y="1456" type="line"/>
+      <point x="279" y="1456" type="line"/>
+      <point x="267" y="1356" type="line"/>
+      <point x="1015" y="1356" type="line"/>
+    </contour>
+  </outline>
+</glyph>

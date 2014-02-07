@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sdotaccent" format="1">
+  <advance width="988"/>
+  <unicode hex="1E61"/>
+  <outline>
+    <component base="s"/>
+    <component base="dotaccent" xOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni1E61</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1022</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bdotaccent" format="1">
+  <advance width="1259"/>
+  <unicode hex="1E03"/>
+  <outline>
+    <component base="b"/>
+    <component base="dotaccent" xOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni1E03</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1264.6500000000001</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scaron" format="1">
+  <advance width="1130"/>
+  <unicode hex="0160"/>
+  <outline>
+    <component base="S"/>
+    <component base="caron" xOffset="391" yOffset="430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Scaron</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1208.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

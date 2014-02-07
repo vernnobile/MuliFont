@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0326" format="1">
+  <advance width="540"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="99" y="-620" type="line"/>
+      <point x="269" y="-620" type="line"/>
+      <point x="441" y="-136" type="line"/>
+      <point x="209" y="-136" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="0" type="move" name="_bot"/>
+    </contour>
+  </outline>
+</glyph>

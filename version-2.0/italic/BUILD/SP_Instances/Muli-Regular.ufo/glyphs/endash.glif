@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="endash" format="1">
+  <advance width="1103"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="-6" y="488" type="line"/>
+      <point x="1088" y="488" type="line"/>
+      <point x="1106" y="634" type="line"/>
+      <point x="12" y="634" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

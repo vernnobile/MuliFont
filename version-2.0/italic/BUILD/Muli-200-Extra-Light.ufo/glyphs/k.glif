@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="1045.476"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="267" y="535" type="line"/>
+      <point x="792" y="0" type="line"/>
+      <point x="920" y="0" type="line"/>
+      <point x="387" y="543" type="line"/>
+      <point x="1004" y="1026" type="line"/>
+      <point x="875" y="1026" type="line"/>
+      <point x="268" y="549" type="line"/>
+      <point x="387" y="1516" type="line"/>
+      <point x="289" y="1516" type="line"/>
+    </contour>
+    <contour>
+      <point x="693" y="1026" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="483" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1078.6500000000001</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

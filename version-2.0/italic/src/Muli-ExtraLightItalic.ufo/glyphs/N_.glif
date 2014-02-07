@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1571"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="313" y="1456" type="line"/>
+      <point x="419" y="1456" type="line"/>
+      <point x="1066" y="335" type="line"/>
+      <point x="1169" y="142" type="line"/>
+      <point x="1330" y="1456" type="line"/>
+      <point x="1436" y="1456" type="line"/>
+      <point x="1258" y="0" type="line"/>
+      <point x="1153" y="0" type="line"/>
+      <point x="489" y="1137" type="line"/>
+      <point x="401" y="1303" type="line"/>
+      <point x="241" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>N</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1578.15</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

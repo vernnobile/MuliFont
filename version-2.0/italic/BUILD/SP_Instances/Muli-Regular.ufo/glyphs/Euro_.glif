@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="1480"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="5" y="523" type="line"/>
+      <point x="880" y="523" type="line"/>
+      <point x="900" y="627" type="line"/>
+      <point x="301" y="627" type="line"/>
+      <point x="324" y="838" type="line"/>
+      <point x="954" y="838" type="line"/>
+      <point x="975" y="948" type="line"/>
+      <point x="61" y="948" type="line"/>
+      <point x="42" y="838" type="line"/>
+      <point x="289" y="838" type="line"/>
+      <point x="267" y="627" type="line"/>
+      <point x="23" y="627" type="line"/>
+    </contour>
+    <component base="C" xOffset="92"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Euro</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1190</integer>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

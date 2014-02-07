@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcaron" format="1">
+  <advance width="503"/>
+  <unicode hex="01F0"/>
+  <outline>
+    <component base="dotlessj"/>
+    <component base="caron" xOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

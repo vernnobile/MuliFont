@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="1124.550"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="995" y="0" type="line"/>
+      <point x="1017" y="180" type="line"/>
+      <point x="341" y="180" type="line"/>
+      <point x="497" y="1456" type="line"/>
+      <point x="285" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="1026" type="move" name="caron.alt"/>
+    </contour>
+    <contour>
+      <point x="406" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="310" y="734" type="move" name="mid"/>
+    </contour>
+    <contour>
+      <point x="589" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="1559"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="139" y="1145" type="line"/>
+      <point x="1515" y="1145" type="line"/>
+      <point x="1530" y="1266" type="line"/>
+      <point x="154" y="1266" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

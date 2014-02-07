@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet" format="1">
+  <advance width="989"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="453" y="362" type="curve" smooth="yes"/>
+      <point x="644" y="362"/>
+      <point x="811" y="509"/>
+      <point x="833" y="684" type="curve" smooth="yes"/>
+      <point x="854" y="859"/>
+      <point x="731" y="1010"/>
+      <point x="533" y="1010" type="curve" smooth="yes"/>
+      <point x="344" y="1010"/>
+      <point x="177" y="860"/>
+      <point x="156" y="684" type="curve" smooth="yes"/>
+      <point x="135" y="512"/>
+      <point x="250" y="362"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>bullet</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>989</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

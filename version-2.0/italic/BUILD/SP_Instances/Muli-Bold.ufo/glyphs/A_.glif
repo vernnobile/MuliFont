@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1458"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="825" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1191" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="-77" y="0" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="383" y="355" type="line"/>
+      <point x="971" y="355" type="line"/>
+      <point x="1069" y="0" type="line"/>
+      <point x="1356" y="0" type="line"/>
+      <point x="944" y="1456" type="line"/>
+      <point x="686" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="507" y="592" type="line"/>
+      <point x="641" y="876" type="line"/>
+      <point x="773" y="1159" type="line"/>
+      <point x="836" y="876" type="line"/>
+      <point x="897" y="592" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

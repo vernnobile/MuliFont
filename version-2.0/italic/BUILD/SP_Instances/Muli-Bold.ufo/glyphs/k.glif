@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k" format="1">
+  <advance width="1076"/>
+  <unicode hex="006B"/>
+  <outline>
+    <contour>
+      <point x="690" y="1026" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="492" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="50" y="0" type="line"/>
+      <point x="298" y="0" type="line"/>
+      <point x="354" y="444" type="line"/>
+      <point x="715" y="0" type="line"/>
+      <point x="1044" y="0" type="line"/>
+      <point x="589" y="530" type="line"/>
+      <point x="1138" y="1026" type="line"/>
+      <point x="796" y="1026" type="line"/>
+      <point x="372" y="607" type="line"/>
+      <point x="478" y="1457" type="line"/>
+      <point x="230" y="1457" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>k</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1078.6500000000001</real>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

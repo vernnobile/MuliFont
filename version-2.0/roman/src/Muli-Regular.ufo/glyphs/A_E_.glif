@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="2062"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="1350" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="546" y="548" type="line"/>
+      <point x="1069" y="548" type="line"/>
+      <point x="1014" y="1291" type="line"/>
+      <point x="966" y="1291" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="869" y="1456" type="line"/>
+      <point x="1887" y="1456" type="line"/>
+      <point x="1887" y="1291" type="line"/>
+      <point x="1198" y="1291" type="line"/>
+      <point x="1237" y="829" type="line"/>
+      <point x="1855" y="829" type="line"/>
+      <point x="1855" y="671" type="line"/>
+      <point x="1253" y="671" type="line"/>
+      <point x="1299" y="163" type="line"/>
+      <point x="1912" y="163" type="line"/>
+      <point x="1912" y="0" type="line"/>
+      <point x="1118" y="0" type="line"/>
+      <point x="1083" y="401" type="line"/>
+      <point x="471" y="401" type="line"/>
+      <point x="243" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>AE</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>2073.55</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

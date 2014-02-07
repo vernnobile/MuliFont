@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="1">
+  <advance width="1296"/>
+  <unicode hex="00DE"/>
+  <outline>
+    <contour>
+      <point x="192" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="431" y="331" type="line"/>
+      <point x="626" y="331" type="line" smooth="yes"/>
+      <point x="944" y="331"/>
+      <point x="1218" y="462"/>
+      <point x="1218" y="774" type="curve" smooth="yes"/>
+      <point x="1218" y="1145"/>
+      <point x="945" y="1220"/>
+      <point x="602" y="1220" type="curve" smooth="yes"/>
+      <point x="433" y="1220" type="line"/>
+      <point x="433" y="1456" type="line"/>
+      <point x="192" y="1456" type="line"/>
+    </contour>
+    <contour>
+      <point x="431" y="538" type="line"/>
+      <point x="431" y="1015" type="line"/>
+      <point x="614" y="1015" type="line" smooth="yes"/>
+      <point x="828" y="1015"/>
+      <point x="958" y="970"/>
+      <point x="958" y="774" type="curve" smooth="yes"/>
+      <point x="958" y="609"/>
+      <point x="843" y="538"/>
+      <point x="659" y="538" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Thorn</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1296</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

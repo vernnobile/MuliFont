@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="2845"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="percent"/>
+    <contour>
+      <point x="2294" y="90" type="curve" smooth="yes"/>
+      <point x="2433" y="90"/>
+      <point x="2514" y="205"/>
+      <point x="2540" y="413" type="curve" smooth="yes"/>
+      <point x="2544" y="448"/>
+      <point x="2547" y="481"/>
+      <point x="2547" y="511" type="curve" smooth="yes"/>
+      <point x="2547" y="660"/>
+      <point x="2492" y="742"/>
+      <point x="2374" y="742" type="curve" smooth="yes"/>
+      <point x="2228" y="742"/>
+      <point x="2145" y="622"/>
+      <point x="2119" y="412" type="curve" smooth="yes"/>
+      <point x="2115" y="379"/>
+      <point x="2113" y="348"/>
+      <point x="2113" y="320" type="curve" smooth="yes"/>
+      <point x="2113" y="170"/>
+      <point x="2172" y="90"/>
+    </contour>
+    <contour>
+      <point x="2386" y="842" type="curve" smooth="yes"/>
+      <point x="2575" y="842"/>
+      <point x="2672" y="717"/>
+      <point x="2672" y="508" type="curve" smooth="yes"/>
+      <point x="2672" y="199"/>
+      <point x="2520" y="-10"/>
+      <point x="2281" y="-10" type="curve" smooth="yes"/>
+      <point x="2088" y="-10"/>
+      <point x="1987" y="113"/>
+      <point x="1987" y="321" type="curve" smooth="yes"/>
+      <point x="1987" y="631"/>
+      <point x="2145" y="842"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>perthousand</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>2581.2</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

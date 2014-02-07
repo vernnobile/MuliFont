@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="572"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="203" y="1237" type="line"/>
+      <point x="437" y="1237" type="line"/>
+      <point x="437" y="1456" type="line"/>
+      <point x="203" y="1456" type="line"/>
+    </contour>
+    <component base="dotlessj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>j</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>572</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

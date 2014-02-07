@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gacute" format="1">
+  <advance width="1534"/>
+  <unicode hex="01F4"/>
+  <outline>
+    <component base="acute" xOffset="815" yOffset="430"/>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

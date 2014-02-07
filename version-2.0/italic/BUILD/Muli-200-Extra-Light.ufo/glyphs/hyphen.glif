@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hyphen" format="1">
+  <advance width="596.866"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="63" y="527" type="line"/>
+      <point x="522" y="527" type="line"/>
+      <point x="530" y="600" type="line"/>
+      <point x="71" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="565" type="move" name="_mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>hyphen</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>683.5</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

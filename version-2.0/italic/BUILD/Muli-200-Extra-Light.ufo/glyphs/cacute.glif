@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cacute" format="1">
+  <advance width="1022"/>
+  <unicode hex="0107"/>
+  <outline>
+    <component base="c"/>
+    <component base="acute" xOffset="533"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>cacute</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1029.7</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

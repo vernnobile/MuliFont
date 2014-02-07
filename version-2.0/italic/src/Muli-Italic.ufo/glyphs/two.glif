@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two" format="1">
+  <advance width="1238"/>
+  <unicode hex="0032"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="136" y="150" type="line"/>
+      <point x="637" y="620" type="line" smooth="yes"/>
+      <point x="820" y="791"/>
+      <point x="890" y="911"/>
+      <point x="901" y="1054" type="curve" smooth="yes"/>
+      <point x="902" y="1065"/>
+      <point x="902" y="1076"/>
+      <point x="902" y="1087" type="curve" smooth="yes"/>
+      <point x="902" y="1227"/>
+      <point x="817" y="1320"/>
+      <point x="659" y="1320" type="curve" smooth="yes"/>
+      <point x="477" y="1320"/>
+      <point x="306" y="1211"/>
+      <point x="281" y="1198" type="curve"/>
+      <point x="238" y="1347" type="line"/>
+      <point x="264" y="1361"/>
+      <point x="448" y="1482"/>
+      <point x="690" y="1482" type="curve" smooth="yes"/>
+      <point x="942" y="1482"/>
+      <point x="1090" y="1329"/>
+      <point x="1090" y="1109" type="curve" smooth="yes"/>
+      <point x="1090" y="1093"/>
+      <point x="1090" y="1076"/>
+      <point x="1088" y="1059" type="curve" smooth="yes"/>
+      <point x="1067" y="852"/>
+      <point x="938" y="693"/>
+      <point x="732" y="501" type="curve" smooth="yes"/>
+      <point x="366" y="158" type="line"/>
+      <point x="972" y="158" type="line"/>
+      <point x="952" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>two</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1244.5</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

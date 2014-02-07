@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="738"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" xOffset="27" yOffset="1154" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>exclamdown</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>738</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

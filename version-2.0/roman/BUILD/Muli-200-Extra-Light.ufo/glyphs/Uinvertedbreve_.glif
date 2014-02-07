@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uinvertedbreve" format="1">
+  <advance width="1480"/>
+  <unicode hex="0216"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0311" xOffset="433" yOffset="430"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni0216</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <integer>1492</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

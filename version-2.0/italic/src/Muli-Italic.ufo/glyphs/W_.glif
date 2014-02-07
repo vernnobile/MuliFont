@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="2022"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="1111" y="1456" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="351" y="0" type="line"/>
+      <point x="131" y="1456" type="line"/>
+      <point x="336" y="1456" type="line"/>
+      <point x="470" y="452" type="line"/>
+      <point x="495" y="217" type="line"/>
+      <point x="661" y="636"/>
+      <point x="840" y="1043"/>
+      <point x="1012" y="1456" type="curve"/>
+      <point x="1203" y="1456" type="line"/>
+      <point x="1384" y="445" type="line"/>
+      <point x="1421" y="220" type="line"/>
+      <point x="1566" y="638"/>
+      <point x="1722" y="1044"/>
+      <point x="1872" y="1456" type="curve"/>
+      <point x="2069" y="1456" type="line"/>
+      <point x="1504" y="0" type="line"/>
+      <point x="1281" y="0" type="line"/>
+      <point x="1073" y="1199" type="line"/>
+      <point x="571" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>W</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1988.85</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

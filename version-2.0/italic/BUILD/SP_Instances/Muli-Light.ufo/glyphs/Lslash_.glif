@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="1108"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="31" y="505" type="line"/>
+      <point x="671" y="876" type="line"/>
+      <point x="686" y="993" type="line"/>
+      <point x="45" y="622" type="line"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
