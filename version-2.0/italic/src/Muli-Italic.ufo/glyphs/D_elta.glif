@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Delta" format="1">
-  <advance width="1305"/>
-  <unicode hex="0394"/>
+  <advance width="1309"/>
+  <unicode hex="2206"/>
   <outline>
     <contour>
       <point x="-33" y="0" type="line"/>
@@ -21,6 +21,31 @@
     <dict>
     <key>org.robofab.postScriptHintData</key>
       <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>uni2206</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1312.25</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
       </dict>
     </dict>
   </lib>

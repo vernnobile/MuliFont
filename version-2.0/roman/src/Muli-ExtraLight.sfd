@@ -10,19 +10,17 @@ UnderlinePosition: 0
 UnderlineWidth: 0
 Ascent: 1638
 Descent: 410
-sfntRevision: 0x00000000
 UFOAscent: 1560
 UFODescent: -556
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
-CreationTime: 1391666064
-ModificationTime: 1391666153
-PfmFamily: 17
+OS2_UseTypoMetrics: 0
+CreationTime: 1391923004
+ModificationTime: 1391923004
+PfmFamily: 0
 TTFWeight: 200
 TTFWidth: 5
 LineGap: 0
@@ -36,13 +34,12 @@ OS2WinAscent: 2364
 OS2WinAOffset: 0
 OS2WinDescent: 582
 OS2WinDOffset: 0
-HheadAscent: 2364
-HheadAOffset: 0
-HheadDescent: -582
-HheadDOffset: 0
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
 OS2Vendor: 'NeWT'
 Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
-MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "Version 2" "" "Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2014, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Muli" "Bold" 
 PickledData: "(dp1
@@ -101,508 +98,944 @@ sS'public.glyphOrder'
 p26
 (S'A'
 S'Aacute'
+p27
 S'Abreve'
+p28
 S'Acaron'
+p29
 S'Acircumflex'
+p30
 S'Adblgrave'
+p31
 S'Adieresis'
+p32
 S'Adotaccent'
+p33
 S'Agrave'
+p34
 S'Ainvertedbreve'
+p35
 S'Amacron'
+p36
 S'Aogonek'
+p37
 S'Aring'
+p38
 S'Aringacute'
+p39
 S'Atilde'
+p40
 S'AE'
+p41
 S'AEacute'
+p42
 S'AEmacron'
+p43
 S'B'
 S'Bdotaccent'
+p44
 S'C'
 S'Cacute'
+p45
 S'Ccaron'
+p46
 S'Ccedilla'
+p47
 S'Ccircumflex'
+p48
 S'Cdotaccent'
+p49
 S'D'
 S'Eth'
+p50
 S'Dcaron'
+p51
 S'Dcroat'
+p52
 S'Ddotaccent'
+p53
 S'Dz'
+p54
 S'Dzcaron'
+p55
 S'E'
 S'Eacute'
+p56
 S'Ebreve'
+p57
 S'Ecaron'
+p58
 S'uni0228'
+p59
 S'Ecircumflex'
+p60
 S'Edblgrave'
+p61
 S'Edieresis'
+p62
 S'Edotaccent'
+p63
 S'Egrave'
+p64
 S'Einvertedbreve'
+p65
 S'Emacron'
+p66
 S'Eogonek'
+p67
 S'Etilde'
+p68
 S'F'
 S'Fdotaccent'
+p69
 S'G'
 S'Gacute'
+p70
 S'Gbreve'
+p71
 S'Gcaron'
+p72
 S'Gcircumflex'
+p73
 S'Gcommaaccent'
+p74
 S'Gdotaccent'
+p75
 S'H'
 S'Hbar'
+p76
 S'uni021E'
+p77
 S'Hcircumflex'
+p78
 S'I'
 S'IJ'
+p79
 S'Iacute'
+p80
 S'Ibreve'
+p81
 S'Icaron'
+p82
 S'Icircumflex'
+p83
 S'Idblgrave'
+p84
 S'Idieresis'
+p85
 S'Idotaccent'
+p86
 S'Igrave'
+p87
 S'Iinvertedbreve'
+p88
 S'Imacron'
+p89
 S'Iogonek'
+p90
 S'Itilde'
+p91
 S'J'
 S'Jcircumflex'
+p92
 S'K'
 S'Kcaron'
+p93
 S'Kcommaaccent'
+p94
 S'L'
 S'LJ'
+p95
 S'Lacute'
+p96
 S'Lcaron'
+p97
 S'Lcommaaccent'
+p98
 S'Ldot'
+p99
 S'Lslash'
+p100
 S'M'
 S'Mdotaccent'
+p101
 S'N'
 S'NJ'
+p102
 S'Nacute'
+p103
 S'Ncaron'
+p104
 S'Ncommaaccent'
+p105
 S'uni01F8'
+p106
 S'Eng'
+p107
 S'Ntilde'
+p108
 S'O'
 S'Oacute'
+p109
 S'Obreve'
+p110
 S'Ocaron'
+p111
 S'Ocircumflex'
+p112
 S'Odblgrave'
+p113
 S'Odieresis'
+p114
 S'Ograve'
+p115
 S'Ohungarumlaut'
+p116
 S'Oinvertedbreve'
+p117
 S'Omacron'
+p118
 S'Oogonek'
+p119
 S'Oslash'
+p120
 S'Oslashacute'
+p121
 S'Otilde'
+p122
 S'OE'
+p123
 S'P'
 S'Pdotaccent'
+p124
 S'Thorn'
+p125
 S'Q'
 S'R'
 S'Racute'
+p126
 S'Rcaron'
+p127
 S'Rcommaaccent'
+p128
 S'Rdblgrave'
+p129
 S'Rinvertedbreve'
+p130
 S'S'
 S'Sacute'
+p131
 S'Scaron'
+p132
 S'Scedilla'
+p133
 S'Scircumflex'
+p134
 S'Scommaaccent'
+p135
 S'Sdotaccent'
+p136
 S'T'
 S'Tbar'
+p137
 S'Tcaron'
+p138
 S'Tcedilla'
+p139
 S'uni021A'
+p140
 S'Tdotaccent'
+p141
 S'U'
 S'Uacute'
+p142
 S'Ubreve'
+p143
 S'Ucaron'
+p144
 S'Ucircumflex'
+p145
 S'Udblgrave'
+p146
 S'Udieresis'
+p147
 S'Ugrave'
+p148
 S'Uhungarumlaut'
+p149
 S'Uinvertedbreve'
+p150
 S'Umacron'
+p151
 S'Uogonek'
+p152
 S'Uring'
+p153
 S'Utilde'
+p154
 S'V'
 S'W'
 S'Wacute'
+p155
 S'Wcircumflex'
+p156
 S'Wdieresis'
+p157
 S'Wgrave'
+p158
 S'X'
 S'Y'
 S'Yacute'
+p159
 S'Ycircumflex'
+p160
 S'Ydieresis'
+p161
 S'Ygrave'
+p162
 S'Ymacron'
+p163
 S'Ytilde'
+p164
 S'Z'
 S'Zacute'
+p165
 S'Zcaron'
+p166
 S'Zdotaccent'
+p167
 S'a'
 S'aacute'
+p168
 S'abreve'
+p169
 S'acaron'
+p170
 S'acircumflex'
+p171
 S'adblgrave'
+p172
 S'adieresis'
+p173
 S'adotaccent'
+p174
 S'agrave'
+p175
 S'ainvertedbreve'
+p176
 S'amacron'
+p177
 S'aogonek'
+p178
 S'aring'
+p179
 S'aringacute'
+p180
 S'atilde'
+p181
 S'ae'
+p182
 S'aeacute'
+p183
 S'aemacron'
+p184
 S'b'
 S'bdotaccent'
+p185
 S'c'
 S'cacute'
+p186
 S'ccaron'
+p187
 S'ccedilla'
+p188
 S'ccircumflex'
+p189
 S'cdotaccent'
+p190
 S'd'
 S'eth'
+p191
 S'dcaron'
+p192
 S'dcroat'
+p193
 S'ddotaccent'
+p194
 S'dz'
+p195
 S'dzcaron'
+p196
 S'e'
 S'eacute'
+p197
 S'ebreve'
+p198
 S'ecaron'
+p199
 S'uni0229'
+p200
 S'ecircumflex'
+p201
 S'edblgrave'
+p202
 S'edieresis'
+p203
 S'edotaccent'
+p204
 S'egrave'
+p205
 S'einvertedbreve'
+p206
 S'emacron'
+p207
 S'eogonek'
+p208
 S'etilde'
+p209
 S'f'
 S'fdotaccent'
+p210
 S'g'
 S'gacute'
+p211
 S'gbreve'
+p212
 S'gcaron'
+p213
 S'gcircumflex'
+p214
 S'gcommaaccent'
+p215
 S'gdotaccent'
+p216
 S'h'
 S'hbar'
+p217
 S'uni021F'
+p218
 S'hcircumflex'
+p219
 S'i'
 S'dotlessi'
+p220
 S'iacute'
+p221
 S'ibreve'
+p222
 S'icaron'
+p223
 S'icircumflex'
+p224
 S'idblgrave'
+p225
 S'idieresis'
+p226
 S'i.loclTRK'
+p227
 S'igrave'
+p228
 S'iinvertedbreve'
+p229
 S'ij'
+p230
 S'imacron'
+p231
 S'iogonek'
+p232
 S'itilde'
+p233
 S'j'
 S'dotlessj'
+p234
 S'jcaron'
+p235
 S'jcircumflex'
+p236
 S'k'
 S'kcaron'
+p237
 S'kcommaaccent'
+p238
 S'kgreenlandic'
+p239
 S'l'
 S'lacute'
+p240
 S'lcaron'
+p241
 S'lcommaaccent'
+p242
 S'ldot'
+p243
 S'lj'
+p244
 S'lslash'
+p245
 S'm'
 S'mdotaccent'
+p246
 S'n'
 S'nacute'
+p247
 S'napostrophe'
+p248
 S'ncaron'
+p249
 S'ncommaaccent'
+p250
 S'uni01F9'
+p251
 S'eng'
+p252
 S'nj'
+p253
 S'ntilde'
+p254
 S'o'
 S'oacute'
+p255
 S'obreve'
+p256
 S'ocaron'
+p257
 S'ocircumflex'
+p258
 S'odblgrave'
+p259
 S'odieresis'
+p260
 S'ograve'
+p261
 S'ohungarumlaut'
+p262
 S'oinvertedbreve'
+p263
 S'omacron'
+p264
 S'oogonek'
+p265
 S'oslash'
+p266
 S'oslashacute'
+p267
 S'otilde'
+p268
 S'oe'
+p269
 S'p'
 S'pdotaccent'
+p270
 S'thorn'
+p271
 S'q'
 S'r'
 S'racute'
+p272
 S'rcaron'
+p273
 S'rcommaaccent'
+p274
 S'rdblgrave'
+p275
 S'rinvertedbreve'
+p276
 S's'
 S'sacute'
+p277
 S'scaron'
+p278
 S'scedilla'
+p279
 S'scircumflex'
+p280
 S'scommaaccent'
+p281
 S'sdotaccent'
+p282
 S'germandbls'
+p283
 S'longs'
+p284
 S't'
 S'tbar'
+p285
 S'tcaron'
+p286
 S'tcedilla'
+p287
 S'uni021B'
+p288
 S'tdotaccent'
+p289
 S'u'
 S'uacute'
+p290
 S'ubreve'
+p291
 S'ucaron'
+p292
 S'ucircumflex'
+p293
 S'udblgrave'
+p294
 S'udieresis'
+p295
 S'ugrave'
+p296
 S'uhungarumlaut'
+p297
 S'uinvertedbreve'
+p298
 S'umacron'
+p299
 S'uogonek'
+p300
 S'uring'
+p301
 S'utilde'
+p302
 S'v'
 S'w'
 S'wacute'
+p303
 S'wcircumflex'
+p304
 S'wdieresis'
+p305
 S'wgrave'
+p306
 S'x'
 S'y'
 S'yacute'
+p307
 S'ycircumflex'
+p308
 S'ydieresis'
+p309
 S'ygrave'
+p310
 S'ymacron'
+p311
 S'ytilde'
+p312
 S'z'
 S'zacute'
+p313
 S'zcaron'
+p314
 S'zdotaccent'
+p315
 S'f_f'
+p316
 S'f_f_i'
+p317
 S'f_f_l'
+p318
 S'fi'
+p319
 S'fl'
+p320
 S'ordfeminine'
+p321
 S'ordmasculine'
+p322
 S'Delta'
+p323
 S'Omega'
+p324
 S'mu'
+p325
 S'pi'
+p326
 S'uni022E'
+p327
 S'uni022F'
+p328
 S'zero'
+p329
 S'one'
+p330
 S'two'
+p331
 S'three'
+p332
 S'four'
+p333
 S'five'
+p334
 S'six'
+p335
 S'seven'
+p336
 S'eight'
+p337
 S'nine'
+p338
 S'fraction'
+p339
 S'onehalf'
+p340
 S'onequarter'
+p341
 S'threequarters'
+p342
 S'onesuperior'
+p343
 S'twosuperior'
+p344
 S'threesuperior'
+p345
 S'foursuperior'
+p346
 S'asterisk'
+p347
 S'backslash'
+p348
 S'bullet'
+p349
 S'colon'
+p350
 S'comma'
+p351
 S'ellipsis'
+p352
 S'exclam'
+p353
 S'exclamdown'
+p354
 S'numbersign'
+p355
 S'period'
+p356
 S'periodcentered'
+p357
 S'question'
+p358
 S'questiondown'
+p359
 S'quotedbl'
+p360
 S'quotesingle'
+p361
 S'semicolon'
+p362
 S'slash'
+p363
 S'underscore'
+p364
 S'braceleft'
+p365
 S'braceright'
+p366
 S'bracketleft'
+p367
 S'bracketright'
+p368
 S'parenleft'
+p369
 S'parenright'
+p370
 S'emdash'
+p371
 S'endash'
+p372
 S'uni2015'
+p373
 S'hyphen'
+p374
 S'softhyphen'
+p375
 S'guillemotleft'
+p376
 S'guillemotright'
+p377
 S'guilsinglleft'
+p378
 S'guilsinglright'
+p379
 S'quotedblbase'
+p380
 S'quotedblleft'
+p381
 S'quotedblright'
+p382
 S'quoteleft'
+p383
 S'quoteright'
+p384
 S'quotesinglbase'
+p385
 S'space'
+p386
 S'uni00A0'
+p387
 S'CR'
+p388
 S'DEL'
+p389
 S'florin'
+p390
 S'cent'
+p391
 S'currency'
+p392
 S'dollar'
+p393
 S'Euro'
+p394
 S'sterling'
+p395
 S'yen'
+p396
 S'Ohm'
+p397
 S'approxequal'
+p398
 S'asciitilde'
+p399
 S'bulletoperator'
+p400
 S'divide'
+p401
 S'divisionslash'
+p402
 S'equal'
+p403
 S'greater'
+p404
 S'greaterequal'
+p405
 S'increment'
+p406
 S'infinity'
+p407
 S'integral'
+p408
 S'less'
+p409
 S'lessequal'
+p410
 S'logicalnot'
+p411
 S'minus'
+p412
 S'multiply'
+p413
 S'notequal'
+p414
 S'partialdiff'
+p415
 S'percent'
+p416
 S'perthousand'
+p417
 S'plus'
+p418
 S'plusminus'
+p419
 S'product'
+p420
 S'radical'
+p421
 S'summation'
+p422
 S'lozenge'
+p423
 S'ampersand'
+p424
 S'asciicircum'
+p425
 S'at'
+p426
 S'bar'
+p427
 S'brokenbar'
+p428
 S'copyright'
+p429
 S'dagger'
+p430
 S'daggerdbl'
+p431
 S'degree'
+p432
 S'estimated'
+p433
 S'uni2113'
+p434
 S'paragraph'
+p435
 S'registered'
+p436
 S'section'
+p437
 S'trademark'
+p438
 S'acute'
+p439
 S'breve'
+p440
 S'caron'
+p441
 S'cedilla'
+p442
 S'circumflex'
+p443
 S'dieresis'
+p444
 S'dotaccent'
+p445
 S'grave'
+p446
 S'hungarumlaut'
+p447
 S'macron'
+p448
 S'ogonek'
+p449
 S'ring'
+p450
 S'tilde'
+p451
 S'caron.alt'
+p452
 S'uni0311'
+p453
 S'uni0326'
+p454
 S'uni0312'
+p455
 S'uni030F'
+p456
 S'uni0307'
+p457
 S'uni02BC'
+p458
 S'NULL'
+p459
 S'fj'
+p460
 S'foundryicon'
+p461
 S'middot'
+p462
 S'slashbar'
-tp27
+p463
+tp464
 sS'com.schriftgestaltung.weight'
-p28
+p465
 S'Light'
-p29
+p466
 s."
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 112 8 2
-BeginPrivate: 0
-EndPrivate
+WinInfo: 378 9 5
 AnchorClass2: "caron.alt" "top" 
 BeginChars: 65543 490
 
@@ -719,7 +1152,7 @@ Refer: 175 180 N 1 0 0 1 1120 430 2
 Refer: 1 198 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: AEmacron
+StartChar: uni01E2
 Encoding: 482 482 3
 Width: 1860
 VWidth: 0
@@ -816,7 +1249,7 @@ Refer: 203 728 N 1 0 0 1 411 430 2
 Refer: 0 65 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Acaron
+StartChar: uni01CD
 Encoding: 461 461 6
 Width: 1329
 VWidth: 0
@@ -873,7 +1306,7 @@ Refer: 217 710 N 1 0 0 1 321 430 2
 Refer: 0 65 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Adblgrave
+StartChar: uni0200
 Encoding: 512 512 8
 Width: 1329
 VWidth: 0
@@ -953,7 +1386,7 @@ Refer: 229 168 N 1 0 0 1 291 430 2
 Refer: 0 65 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Adotaccent
+StartChar: uni0226
 Encoding: 550 550 10
 Width: 1329
 VWidth: 0
@@ -1010,7 +1443,7 @@ Refer: 283 96 N 1 0 0 1 191 430 2
 Refer: 0 65 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ainvertedbreve
+StartChar: uni0202
 Encoding: 514 514 12
 Width: 1329
 VWidth: 0
@@ -1288,7 +1721,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Bdotaccent
+StartChar: uni1E02
 Encoding: 7682 7682 19
 Width: 1352
 VWidth: 0
@@ -1598,7 +2031,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: CR
+StartChar: uni000D
 Encoding: 13 13 21
 Width: 0
 VWidth: 0
@@ -1864,7 +2297,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: DEL
+StartChar: uni007F
 Encoding: 127 127 28
 Width: 1521
 VWidth: 0
@@ -1970,7 +2403,7 @@ Fore
 Refer: 48 208 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ddotaccent
+StartChar: uni1E0A
 Encoding: 7690 7690 31
 Width: 1523
 VWidth: 0
@@ -2010,7 +2443,7 @@ Refer: 233 729 N 1 0 0 1 476 430 2
 Refer: 27 68 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Delta
+StartChar: uni0394
 Encoding: 916 916 32
 Width: 1298
 VWidth: 0
@@ -2038,7 +2471,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Dz
+StartChar: uni01F2
 Encoding: 498 498 33
 Width: 2457
 VWidth: 0
@@ -2055,7 +2488,7 @@ Refer: 484 122 N 1 0 0 1 1523 0 2
 Refer: 27 68 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Dzcaron
+StartChar: uni01C5
 Encoding: 453 453 34
 Width: 2457
 VWidth: 0
@@ -2218,7 +2651,7 @@ Refer: 217 710 N 1 0 0 1 294 430 2
 Refer: 35 69 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Edblgrave
+StartChar: uni0204
 Encoding: 516 516 40
 Width: 1219
 VWidth: 0
@@ -2309,7 +2742,7 @@ Refer: 283 96 N 1 0 0 1 164 430 2
 Refer: 35 69 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Einvertedbreve
+StartChar: uni0206
 Encoding: 518 518 44
 Width: 1219
 VWidth: 0
@@ -2456,7 +2889,7 @@ Refer: 294 45 N 1 0 0 1 -3 190 2
 Refer: 27 68 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Etilde
+StartChar: uni1EBC
 Encoding: 7868 7868 49
 Width: 1219
 VWidth: 0
@@ -2569,7 +3002,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Fdotaccent
+StartChar: uni1E1E
 Encoding: 7710 7710 52
 Width: 1090
 VWidth: 0
@@ -2923,7 +3356,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Gacute
+StartChar: uni01F4
 Encoding: 500 500 54
 Width: 1513
 VWidth: 0
@@ -3037,7 +3470,7 @@ Refer: 217 710 N 1 0 0 1 512 430 2
 Refer: 53 71 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Gcommaaccent
+StartChar: uni0122
 Encoding: 290 290 58
 Width: 1513
 VWidth: 0
@@ -3376,7 +3809,7 @@ Refer: 203 728 N 1 0 0 1 43 430 2
 Refer: 63 73 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Icaron
+StartChar: uni01CF
 Encoding: 463 463 67
 Width: 592
 VWidth: 0
@@ -3433,7 +3866,7 @@ Refer: 217 710 N 1 0 0 1 -47 430 2
 Refer: 63 73 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Idblgrave
+StartChar: uni0208
 Encoding: 520 520 69
 Width: 592
 VWidth: 0
@@ -3524,7 +3957,7 @@ Refer: 283 96 N 1 0 0 1 -177 430 2
 Refer: 63 73 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Iinvertedbreve
+StartChar: uni020A
 Encoding: 522 522 73
 Width: 592
 VWidth: 0
@@ -3779,7 +4212,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Kcaron
+StartChar: uni01E8
 Encoding: 488 488 80
 Width: 1232
 VWidth: 0
@@ -3796,7 +4229,7 @@ Refer: 209 711 N 1 0 0 1 302 430 2
 Refer: 79 75 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Kcommaaccent
+StartChar: uni0136
 Encoding: 310 310 81
 Width: 1232
 VWidth: 0
@@ -3847,8 +4280,8 @@ S'org.robofab.postScriptHintData'
 p2
 (dp3
 s."
-AnchorPoint: "caron.alt" 301 1026 basechar 0
 AnchorPoint: "top" 289 1456 basechar 0
+AnchorPoint: "caron.alt" 301 1026 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3862,7 +4295,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: LJ
+StartChar: uni01C7
 Encoding: 455 455 83
 Width: 1712
 VWidth: 0
@@ -3936,7 +4369,7 @@ Refer: 210 -1 N 1 0 0 1 222 0 2
 Refer: 82 76 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Lcommaaccent
+StartChar: uni013B
 Encoding: 315 315 86
 Width: 1045
 VWidth: 0
@@ -4074,7 +4507,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Mdotaccent
+StartChar: uni1E40
 Encoding: 7744 7744 90
 Width: 1849
 VWidth: 0
@@ -4167,7 +4600,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: NJ
+StartChar: uni01CA
 Encoding: 458 458 92
 Width: 2238
 VWidth: 0
@@ -4278,7 +4711,7 @@ Refer: 209 711 N 1 0 0 1 474 430 2
 Refer: 91 78 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ncommaaccent
+StartChar: uni0145
 Encoding: 325 325 96
 Width: 1571
 VWidth: 0
@@ -4580,7 +5013,7 @@ Refer: 203 728 N 1 0 0 1 532 430 2
 Refer: 98 79 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ocaron
+StartChar: uni01D1
 Encoding: 465 465 102
 Width: 1572
 VWidth: 0
@@ -4637,7 +5070,7 @@ Refer: 217 710 N 1 0 0 1 442 430 2
 Refer: 98 79 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Odblgrave
+StartChar: uni020C
 Encoding: 524 524 104
 Width: 1572
 VWidth: 0
@@ -4757,7 +5190,7 @@ Refer: 283 96 N 1 0 0 1 312 430 2
 Refer: 98 79 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ohm
+StartChar: Omega
 Encoding: 8486 8486 107
 Width: 1603
 VWidth: 0
@@ -4813,7 +5246,7 @@ Refer: 293 733 N 1 0 0 1 422 430 2
 Refer: 98 79 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Oinvertedbreve
+StartChar: uni020E
 Encoding: 526 526 109
 Width: 1572
 VWidth: 0
@@ -4893,7 +5326,7 @@ Refer: 332 175 N 1 0 0 1 442 430 2
 Refer: 98 79 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Omega
+StartChar: uni03A9
 Encoding: 937 937 111
 Width: 1603
 VWidth: 0
@@ -4927,7 +5360,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Oogonek
+StartChar: uni01EA
 Encoding: 490 490 112
 Width: 1572
 VWidth: 0
@@ -5413,7 +5846,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Pdotaccent
+StartChar: uni1E56
 Encoding: 7766 7766 117
 Width: 1219
 VWidth: 0
@@ -5919,7 +6352,7 @@ Refer: 209 711 N 1 0 0 1 247 430 2
 Refer: 119 82 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Rcommaaccent
+StartChar: uni0156
 Encoding: 342 342 122
 Width: 1373
 VWidth: 0
@@ -5959,7 +6392,7 @@ Refer: 463 806 N 1 0 0 1 384 0 2
 Refer: 119 82 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Rdblgrave
+StartChar: uni0210
 Encoding: 528 528 123
 Width: 1373
 VWidth: 0
@@ -5999,7 +6432,7 @@ Refer: 460 783 N 1 0 0 1 -43 430 2
 Refer: 119 82 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Rinvertedbreve
+StartChar: uni0212
 Encoding: 530 530 124
 Width: 1373
 VWidth: 0
@@ -6571,7 +7004,7 @@ Refer: 217 710 N 1 0 0 1 262 430 2
 Refer: 125 83 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Scommaaccent
+StartChar: uni0218
 Encoding: 536 536 130
 Width: 1130
 VWidth: 0
@@ -6611,7 +7044,7 @@ Refer: 463 806 N 1 0 0 1 289 0 2
 Refer: 125 83 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Sdotaccent
+StartChar: uni1E60
 Encoding: 7776 7776 131
 Width: 1130
 VWidth: 0
@@ -6712,7 +7145,7 @@ Refer: 209 711 N 1 0 0 1 204 430 2
 Refer: 132 84 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Tcedilla
+StartChar: uni0162
 Encoding: 354 354 135
 Width: 1097
 VWidth: 0
@@ -6752,7 +7185,7 @@ Refer: 215 184 N 1 0 0 1 319 0 2
 Refer: 132 84 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Tdotaccent
+StartChar: uni1E6A
 Encoding: 7786 7786 136
 Width: 1097
 VWidth: 0
@@ -6956,7 +7389,7 @@ Refer: 203 728 N 1 0 0 1 492 430 2
 Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ucaron
+StartChar: uni01D3
 Encoding: 467 467 141
 Width: 1480
 VWidth: 0
@@ -7013,7 +7446,7 @@ Refer: 217 710 N 1 0 0 1 402 430 2
 Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Udblgrave
+StartChar: uni0214
 Encoding: 532 532 143
 Width: 1480
 VWidth: 0
@@ -7173,7 +7606,7 @@ Refer: 293 733 N 1 0 0 1 382 430 2
 Refer: 138 85 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Uinvertedbreve
+StartChar: uni0216
 Encoding: 534 534 147
 Width: 1480
 VWidth: 0
@@ -7420,7 +7853,7 @@ SplineSet
  758 0 l 257
  628 0 l 257
 EndSplineSet
-Kerns2: 219 19 "kernHorizontalKerninginLatinloo subtable"  378 19 "kernHorizontalKerninginLatinloo subtable" 
+Kerns2: 378 19 "kernHorizontalKerninginLatinloo subtable"  219 19 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: W
@@ -7903,7 +8336,7 @@ Refer: 283 96 N 1 0 0 1 138 430 2
 Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ymacron
+StartChar: uni0232
 Encoding: 562 562 164
 Width: 1235
 VWidth: 0
@@ -7920,7 +8353,7 @@ Refer: 332 175 N 1 0 0 1 268 430 2
 Refer: 159 89 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: Ytilde
+StartChar: uni1EF8
 Encoding: 7928 7928 165
 Width: 1235
 VWidth: 0
@@ -8495,7 +8928,7 @@ Refer: 203 728 N 1 0 0 1 333 0 2
 Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: acaron
+StartChar: uni01CE
 Encoding: 462 462 173
 Width: 1253
 VWidth: 0
@@ -8575,7 +9008,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: adblgrave
+StartChar: uni0201
 Encoding: 513 513 176
 Width: 1253
 VWidth: 0
@@ -8655,7 +9088,7 @@ Refer: 229 168 N 1 0 0 1 213 0 2
 Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: adotaccent
+StartChar: uni0227
 Encoding: 551 551 178
 Width: 1253
 VWidth: 0
@@ -8774,7 +9207,7 @@ Refer: 179 230 N 1 0 0 1 0 0 2
 Refer: 175 180 N 1 0 0 1 775 0 2
 EndChar
 
-StartChar: aemacron
+StartChar: uni01E3
 Encoding: 483 483 181
 Width: 1811
 VWidth: 0
@@ -8831,7 +9264,7 @@ Refer: 283 96 N 1 0 0 1 113 0 2
 Refer: 170 97 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: ainvertedbreve
+StartChar: uni0203
 Encoding: 515 515 183
 Width: 1253
 VWidth: 0
@@ -9469,7 +9902,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bdotaccent
+StartChar: uni1E03
 Encoding: 7683 7683 198
 Width: 1259
 VWidth: 0
@@ -9747,7 +10180,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: bulletoperator
+StartChar: uni2219
 Encoding: 8729 8729 206
 Width: 600
 VWidth: 0
@@ -10675,8 +11108,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 581 1026 basechar 0
 AnchorPoint: "caron.alt" 911 1026 basechar 0
+AnchorPoint: "top" 581 1026 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -10870,7 +11303,7 @@ Refer: 332 175 N 1 0 0 1 666 -13 2
 Refer: 222 100 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: ddotaccent
+StartChar: uni1E0B
 Encoding: 7691 7691 227
 Width: 1256
 VWidth: 0
@@ -11020,7 +11453,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: divisionslash
+StartChar: uni2215
 Encoding: 8725 8725 231
 Width: 600
 VWidth: 0
@@ -11175,7 +11608,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dotlessj
+StartChar: uni0237
 Encoding: 567 567 235
 Width: 503
 VWidth: 0
@@ -11202,7 +11635,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: dz
+StartChar: uni01F3
 Encoding: 499 499 236
 Width: 2190
 VWidth: 0
@@ -11219,7 +11652,7 @@ Refer: 484 122 N 1 0 0 1 1256 0 2
 Refer: 222 100 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: dzcaron
+StartChar: uni01C6
 Encoding: 454 454 237
 Width: 2190
 VWidth: 0
@@ -11453,7 +11886,7 @@ Refer: 238 101 N 1 0 0 1 0 0 2
 Refer: 217 710 N 1 0 0 1 241 0 2
 EndChar
 
-StartChar: edblgrave
+StartChar: uni0205
 Encoding: 517 517 243
 Width: 1133
 VWidth: 0
@@ -11672,7 +12105,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: einvertedbreve
+StartChar: uni0207
 Encoding: 519 519 248
 Width: 1133
 VWidth: 0
@@ -12043,7 +12476,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: etilde
+StartChar: uni1EBD
 Encoding: 7869 7869 258
 Width: 1133
 VWidth: 0
@@ -12216,7 +12649,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: f_f
+StartChar: uniFB00
 Encoding: 64256 64256 262
 Width: 1205
 VWidth: 0
@@ -12261,7 +12694,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: f_f_i
+StartChar: uniFB03
 Encoding: 64259 64259 263
 Width: 1696
 VWidth: 0
@@ -12313,7 +12746,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: f_f_l
+StartChar: uniFB04
 Encoding: 64260 64260 264
 Width: 1714
 VWidth: 0
@@ -12348,7 +12781,7 @@ EndSplineSet
 Refer: 269 64258 N 1 0 0 1 505 0 2
 EndChar
 
-StartChar: fdotaccent
+StartChar: uni1E1F
 Encoding: 7711 7711 265
 Width: 604
 VWidth: 0
@@ -12388,7 +12821,7 @@ Refer: 261 102 N 1 0 0 1 0 0 2
 Refer: 233 729 N 1 0 0 1 19 430 2
 EndChar
 
-StartChar: fi
+StartChar: uniFB01
 Encoding: 64257 64257 266
 Width: 1174
 VWidth: 0
@@ -12772,7 +13205,7 @@ Refer: 312 106 N 1 0 0 1 604 0 2
 Refer: 261 102 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: fl
+StartChar: uniFB02
 Encoding: 64258 64258 269
 Width: 1229
 VWidth: 0
@@ -13013,7 +13446,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: foursuperior
+StartChar: uni2074
 Encoding: 8308 8308 273
 Width: 897
 VWidth: 0
@@ -13543,7 +13976,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: gacute
+StartChar: uni01F5
 Encoding: 501 501 276
 Width: 1268
 VWidth: 0
@@ -13657,7 +14090,7 @@ Refer: 275 103 N 1 0 0 1 0 0 2
 Refer: 217 710 N 1 0 0 1 235 0 2
 EndChar
 
-StartChar: gcommaaccent
+StartChar: uni0123
 Encoding: 291 291 280
 Width: 1268
 VWidth: 0
@@ -14636,7 +15069,7 @@ Refer: 234 305 N 1 0 0 1 0 0 2
 Refer: 203 728 N 1 0 0 1 -17 0 2
 EndChar
 
-StartChar: icaron
+StartChar: uni01D0
 Encoding: 464 464 299
 Width: 473
 VWidth: 0
@@ -14693,7 +15126,7 @@ Refer: 234 305 N 1 0 0 1 0 0 2
 Refer: 217 710 N 1 0 0 1 -107 0 2
 EndChar
 
-StartChar: idblgrave
+StartChar: uni0209
 Encoding: 521 521 301
 Width: 473
 VWidth: 0
@@ -14744,7 +15177,7 @@ Refer: 283 96 N 1 0 0 1 -237 0 2
 Refer: 234 305 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: iinvertedbreve
+StartChar: uni020B
 Encoding: 523 523 304
 Width: 473
 VWidth: 0
@@ -14841,7 +15274,7 @@ Refer: 332 175 N 1 0 0 1 -107 0 2
 Refer: 234 305 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: increment
+StartChar: Delta
 Encoding: 8710 8710 307
 Width: 1319
 VWidth: 0
@@ -15287,7 +15720,7 @@ Refer: 235 567 N 1 0 0 1 12 0 2
 Refer: 233 729 N 1 0 0 1 6 0 2
 EndChar
 
-StartChar: jcaron
+StartChar: uni01F0
 Encoding: 496 496 313
 Width: 503
 VWidth: 0
@@ -15396,7 +15829,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: kcaron
+StartChar: uni01E9
 Encoding: 489 489 316
 Width: 1045
 VWidth: 0
@@ -15413,7 +15846,7 @@ Refer: 315 107 N 1 0 0 1 0 0 2
 Refer: 209 711 N 1 0 0 1 315 0 2
 EndChar
 
-StartChar: kcommaaccent
+StartChar: uni0137
 Encoding: 311 311 317
 Width: 1045
 VWidth: 0
@@ -15515,8 +15948,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 250 1456 basechar 0
 AnchorPoint: "caron.alt" 180 1026 basechar 0
+AnchorPoint: "top" 250 1456 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15608,7 +16041,7 @@ Refer: 319 108 N 1 0 0 1 0 0 2
 Refer: 210 -1 N 1 0 0 1 101 0 2
 EndChar
 
-StartChar: lcommaaccent
+StartChar: uni013C
 Encoding: 316 316 322
 Width: 509
 VWidth: 0
@@ -15789,7 +16222,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: lj
+StartChar: uni01C9
 Encoding: 457 457 326
 Width: 1012
 VWidth: 0
@@ -16060,7 +16493,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: mdotaccent
+StartChar: uni1E41
 Encoding: 7745 7745 333
 Width: 1946
 VWidth: 0
@@ -16369,7 +16802,7 @@ Refer: 338 110 N 1 0 0 1 0 0 2
 Refer: 209 711 N 1 0 0 1 319 0 2
 EndChar
 
-StartChar: ncommaaccent
+StartChar: uni0146
 Encoding: 326 326 342
 Width: 1257
 VWidth: 0
@@ -16783,7 +17216,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: nj
+StartChar: uni01CC
 Encoding: 460 460 344
 Width: 1760
 VWidth: 0
@@ -17082,7 +17515,7 @@ Refer: 348 111 N 1 0 0 1 0 0 2
 Refer: 203 728 N 1 0 0 1 362 0 2
 EndChar
 
-StartChar: ocaron
+StartChar: uni01D2
 Encoding: 466 466 351
 Width: 1230
 VWidth: 0
@@ -17139,7 +17572,7 @@ Refer: 348 111 N 1 0 0 1 0 0 2
 Refer: 217 710 N 1 0 0 1 272 0 2
 EndChar
 
-StartChar: odblgrave
+StartChar: uni020D
 Encoding: 525 525 353
 Width: 1230
 VWidth: 0
@@ -17415,7 +17848,7 @@ Refer: 348 111 N 1 0 0 1 0 0 2
 Refer: 293 733 N 1 0 0 1 252 0 2
 EndChar
 
-StartChar: oinvertedbreve
+StartChar: uni020F
 Encoding: 527 527 359
 Width: 1230
 VWidth: 0
@@ -17645,7 +18078,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: onesuperior
+StartChar: uni00B9
 Encoding: 185 185 364
 Width: 896
 VWidth: 0
@@ -17674,7 +18107,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: oogonek
+StartChar: uni01EB
 Encoding: 491 491 365
 Width: 1230
 VWidth: 0
@@ -18180,7 +18613,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: pdotaccent
+StartChar: uni1E57
 Encoding: 7767 7767 376
 Width: 1263
 VWidth: 0
@@ -19353,7 +19786,7 @@ Refer: 396 114 N 1 0 0 1 0 0 2
 Refer: 209 711 N 1 0 0 1 135 0 2
 EndChar
 
-StartChar: rcommaaccent
+StartChar: uni0157
 Encoding: 343 343 400
 Width: 769
 VWidth: 0
@@ -19393,7 +19826,7 @@ Refer: 463 806 N 1 0 0 1 7 0 2
 Refer: 396 114 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: rdblgrave
+StartChar: uni0211
 Encoding: 529 529 401
 Width: 769
 VWidth: 0
@@ -19534,8 +19967,8 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 267 1456 basechar 0
 AnchorPoint: "top" 269 1026 mark 0
+AnchorPoint: "top" 267 1456 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19552,7 +19985,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: rinvertedbreve
+StartChar: uni0213
 Encoding: 531 531 404
 Width: 769
 VWidth: 0
@@ -20124,7 +20557,7 @@ Refer: 405 115 N 1 0 0 1 0 0 2
 Refer: 217 710 N 1 0 0 1 121 0 2
 EndChar
 
-StartChar: scommaaccent
+StartChar: uni0219
 Encoding: 537 537 410
 Width: 935
 VWidth: 0
@@ -20164,7 +20597,7 @@ Refer: 463 806 N 1 0 0 1 192 0 2
 Refer: 405 115 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: sdotaccent
+StartChar: uni1E61
 Encoding: 7777 7777 411
 Width: 935
 VWidth: 0
@@ -20389,7 +20822,7 @@ s."
 LayerCount: 2
 EndChar
 
-StartChar: softhyphen
+StartChar: uni00AD
 Encoding: 173 173 418
 Width: 593
 VWidth: 0
@@ -20596,8 +21029,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "caron.alt" 299 1264 basechar 0
 AnchorPoint: "top" 294 1311 basechar 0
+AnchorPoint: "caron.alt" 299 1264 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20700,7 +21133,7 @@ Refer: 422 116 N 1 0 0 1 0 0 2
 Refer: 210 -1 N 1 0 0 1 220 238 2
 EndChar
 
-StartChar: tcedilla
+StartChar: uni0163
 Encoding: 355 355 425
 Width: 687
 VWidth: 0
@@ -20740,7 +21173,7 @@ Refer: 422 116 N 1 0 0 1 0 0 2
 Refer: 215 184 N 1 0 0 1 202 31 2
 EndChar
 
-StartChar: tdotaccent
+StartChar: uni1E6B
 Encoding: 7787 7787 426
 Width: 687
 VWidth: 0
@@ -21244,7 +21677,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: threesuperior
+StartChar: uni00B3
 Encoding: 179 179 430
 Width: 878
 VWidth: 0
@@ -21446,7 +21879,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: twosuperior
+StartChar: uni00B2
 Encoding: 178 178 434
 Width: 942
 VWidth: 0
@@ -21611,7 +22044,7 @@ Refer: 435 117 N 1 0 0 1 0 0 2
 Refer: 203 728 N 1 0 0 1 397 0 2
 EndChar
 
-StartChar: ucaron
+StartChar: uni01D4
 Encoding: 468 468 438
 Width: 1285
 VWidth: 0
@@ -21668,7 +22101,7 @@ Refer: 435 117 N 1 0 0 1 0 0 2
 Refer: 217 710 N 1 0 0 1 307 0 2
 EndChar
 
-StartChar: udblgrave
+StartChar: uni0215
 Encoding: 533 533 440
 Width: 1285
 VWidth: 0
@@ -21828,7 +22261,7 @@ Refer: 435 117 N 1 0 0 1 0 0 2
 Refer: 293 733 N 1 0 0 1 287 0 2
 EndChar
 
-StartChar: uinvertedbreve
+StartChar: uni0217
 Encoding: 535 535 444
 Width: 1285
 VWidth: 0
@@ -23052,7 +23485,7 @@ Refer: 476 121 N 1 0 0 1 0 0 2
 Refer: 283 96 N 1 0 0 1 45 0 2
 EndChar
 
-StartChar: ymacron
+StartChar: uni0233
 Encoding: 563 563 482
 Width: 983
 VWidth: 0
@@ -23069,7 +23502,7 @@ Refer: 476 121 N 1 0 0 1 0 0 2
 Refer: 332 175 N 1 0 0 1 175 0 2
 EndChar
 
-StartChar: ytilde
+StartChar: uni1EF9
 Encoding: 7929 7929 483
 Width: 983
 VWidth: 0

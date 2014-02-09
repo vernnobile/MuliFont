@@ -73,9 +73,6 @@
     <key>org.robofab.postScriptHintData</key>
       <dict>
       </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
     <key>com.typemytype.robofont.layerData</key>
       <dict>
     <key>b</key>
@@ -101,6 +98,9 @@
       </array>
       </dict>
       </dict>
+    <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
     </dict>
   </lib>
 </glyph>

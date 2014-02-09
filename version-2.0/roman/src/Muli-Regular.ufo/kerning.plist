@@ -4,12 +4,12 @@
     <dict>
 	<key>V</key>
 	<dict>
-	    <key>q</key>
-	    <integer>-6</integer>
-	    <key>period</key>
-	    <integer>4</integer>
 	    <key>comma</key>
 	    <integer>4</integer>
+	    <key>period</key>
+	    <integer>4</integer>
+	    <key>q</key>
+	    <integer>-6</integer>
 	</dict>
 	<key>v</key>
 	<dict>
