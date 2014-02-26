@@ -25,7 +25,13 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/02/26 05:02:51</string>
+	<string>2014/02/26 04:17:46</string>
+	<key>openTypeHheaAscender</key>
+	<integer>2412</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-607</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -48,7 +54,7 @@ http://scripts.sil.org/OFL
 	<key>openTypeNamePreferedFamilyName</key>
 	<string>Muli</string>
 	<key>openTypeNamePreferedSubfamilyName</key>
-	<string>ExtraLight</string>
+	<string>ExtraLightItalic</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>
