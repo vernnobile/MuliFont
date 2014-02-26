@@ -4,10 +4,10 @@
   <unicode hex="0064"/>
   <outline>
     <contour>
-      <point x="911" y="1026" type="move" name="caron.alt"/>
+      <point x="581" y="1026" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="581" y="1026" type="move" name="top"/>
+      <point x="911" y="1026" type="move" name="caron.alt"/>
     </contour>
     <contour>
       <point x="560" y="61" type="curve" smooth="yes"/>

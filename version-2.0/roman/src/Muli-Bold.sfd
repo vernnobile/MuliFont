@@ -15,31 +15,33 @@ UFODescent: -556
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
-CreationTime: 1391923333
-ModificationTime: 1391923403
-PfmFamily: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1393382894
+ModificationTime: 1393382918
+PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 2364
+OS2TypoAscent: 2412
 OS2TypoAOffset: 0
-OS2TypoDescent: -582
+OS2TypoDescent: -607
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2364
+OS2WinAscent: 2412
 OS2WinAOffset: 0
-OS2WinDescent: 582
+OS2WinDescent: 607
 OS2WinDOffset: 0
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+HheadAscent: 2412
+HheadAOffset: 0
+HheadDescent: -607
+HheadDOffset: 0
 OS2Vendor: 'NeWT'
 Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "Version 2" "" "Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2014, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Muli" "Bold" 
 PickledData: "(dp1
@@ -592,15 +594,16 @@ S'Light'
 p29
 s."
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 459 9 4
+WinInfo: 64 8 2
+BeginPrivate: 0
+EndPrivate
 AnchorClass2: "caron.alt" 
-BeginChars: 65543 492
+BeginChars: 65543 498
 
 StartChar: A
 Encoding: 65 65 0
@@ -2037,7 +2040,7 @@ Encoding: 498 498 33
 Width: 2568
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -2057,7 +2060,7 @@ Encoding: 453 453 34
 Width: 2569
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3066,7 +3069,7 @@ Refer: 217 710 N 1 0 0 1 484 430 2
 Refer: 53 71 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0122
+StartChar: Gcommaaccent
 Encoding: 290 290 58
 Width: 1538
 VWidth: 0
@@ -3405,7 +3408,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 203 728 N 1 0 0 1 -60 430 2
+Refer: 203 728 N 1 0 0 1 -63.5 486 2
 Refer: 63 73 N 1 0 0 1 0 0 2
 EndChar
 
@@ -3622,7 +3625,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 332 175 N 1 0 0 1 -124 430 2
+Refer: 332 175 N 1 0 0 1 -91 500 2
 Refer: 63 73 N 1 0 0 1 0 0 2
 EndChar
 
@@ -3682,7 +3685,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 431 732 N 1 0 0 1 -168 430 2
+Refer: 431 732 N 1 0 0 1 -82 472 2
 Refer: 63 73 N 1 0 0 1 0 0 2
 EndChar
 
@@ -3842,7 +3845,7 @@ Refer: 209 711 N 1 0 0 1 333 430 2
 Refer: 79 75 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0136
+StartChar: Kcommaaccent
 Encoding: 310 310 81
 Width: 1352
 VWidth: 0
@@ -3915,7 +3918,7 @@ Encoding: 455 455 83
 Width: 2192
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -3926,8 +3929,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 77 74 N 1 0 0 1 1173 0 2
 Refer: 82 76 N 1 0 0 1 0 0 2
+Refer: 77 74 N 1 0 0 1 1173 0 2
 EndChar
 
 StartChar: Lacute
@@ -3990,7 +3993,7 @@ Refer: 210 -1 N 1 0 0 1 342 0 2
 Refer: 82 76 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni013B
+StartChar: Lcommaaccent
 Encoding: 315 315 86
 Width: 1173
 VWidth: 0
@@ -4224,7 +4227,7 @@ Encoding: 458 458 92
 Width: 2649
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -4235,8 +4238,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 77 74 N 1 0 0 1 1630 0 2
 Refer: 91 78 N 1 0 0 1 0 0 2
+Refer: 77 74 N 1 0 0 1 1630 0 2
 EndChar
 
 StartChar: NULL
@@ -4333,7 +4336,7 @@ Refer: 209 711 N 1 0 0 1 470 430 2
 Refer: 91 78 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0145
+StartChar: Ncommaaccent
 Encoding: 325 325 96
 Width: 1630
 VWidth: 0
@@ -5982,7 +5985,7 @@ Refer: 209 711 N 1 0 0 1 293 430 2
 Refer: 119 82 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0156
+StartChar: Rcommaaccent
 Encoding: 342 342 122
 Width: 1388
 VWidth: 0
@@ -6629,11 +6632,11 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 217 710 N 1 0 0 1 256 430 2
+Refer: 217 710 N 1 0 0 1 269 461 2
 Refer: 125 83 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0218
+StartChar: Scommaaccent
 Encoding: 536 536 130
 Width: 1256
 VWidth: 0
@@ -6782,7 +6785,7 @@ Refer: 209 711 N 1 0 0 1 233 430 2
 Refer: 132 84 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: uni0162
+StartChar: Tcommaaccent
 Encoding: 354 354 135
 Width: 1181
 VWidth: 0
@@ -11312,7 +11315,7 @@ Encoding: 499 499 236
 Width: 2264
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11332,7 +11335,7 @@ Encoding: 454 454 237
 Width: 2265
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -11379,39 +11382,39 @@ p12
 p13
 (tsS'anchors'
 p14
-(tsssS'com.typemytype.robofont.guides'
+(tsssS'com.fontlab.hintData'
 p15
-(tsS'com.fontlab.hintData'
-p16
-(dp17
+(dp16
 S'vhints'
-p18
-((dp19
+p17
+((dp18
 S'position'
-p20
+p19
 I106
 sg11
 I195
-stp21
+stp20
 sS'hhints'
-p22
-((dp23
-g20
+p21
+((dp22
+g19
 I-22
 sg11
 I154
-s(dp24
-g20
+s(dp23
+g19
 I486
 sg11
 I131
-s(dp25
-g20
+s(dp24
+g19
 I901
 sg11
 I151
-stp26
-ss."
+stp25
+ssS'com.typemytype.robofont.guides'
+p26
+(ts."
 HStem: -22 154 486 131 901 151
 VStem: 106 195
 LayerCount: 2
@@ -13814,7 +13817,7 @@ Refer: 275 103 N 1 0 0 1 0 0 2
 Refer: 217 710 N 1 0 0 1 266 0 2
 EndChar
 
-StartChar: uni0123
+StartChar: gcommaaccent
 Encoding: 291 291 280
 Width: 1235
 VWidth: 0
@@ -14795,7 +14798,7 @@ p15
 LayerCount: 2
 Fore
 Refer: 234 305 N 1 0 0 1 0 0 2
-Refer: 203 728 N 1 0 0 1 -119 0 2
+Refer: 203 728 N 1 0 0 1 -123 55 2
 EndChar
 
 StartChar: uni01D0
@@ -15011,7 +15014,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 332 175 N 1 0 0 1 -183 0 2
+Refer: 332 175 N 1 0 0 1 -150.5 69 2
 Refer: 234 305 N 1 0 0 1 0 0 2
 EndChar
 
@@ -15232,7 +15235,7 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 431 732 N 1 0 0 1 -227 0 2
+Refer: 431 732 N 1 0 0 1 -141.5 41 2
 Refer: 234 305 N 1 0 0 1 0 0 2
 EndChar
 
@@ -15592,7 +15595,7 @@ Refer: 315 107 N 1 0 0 1 0 0 2
 Refer: 209 711 N 1 0 0 1 279 0 2
 EndChar
 
-StartChar: uni0137
+StartChar: kcommaaccent
 Encoding: 311 311 317
 Width: 1076
 VWidth: 0
@@ -15789,7 +15792,7 @@ Refer: 319 108 N 1 0 0 1 0 0 2
 Refer: 210 -1 N 1 0 0 1 203 0 2
 EndChar
 
-StartChar: uni013C
+StartChar: lcommaaccent
 Encoding: 316 316 322
 Width: 526
 VWidth: 0
@@ -15975,7 +15978,7 @@ Encoding: 457 457 326
 Width: 1126
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -15986,8 +15989,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 312 106 N 1 0 0 1 526 0 2
 Refer: 319 108 N 1 0 0 1 0 0 2
+Refer: 312 106 N 1 0 0 1 526 0 2
 EndChar
 
 StartChar: logicalnot
@@ -16323,7 +16326,7 @@ EndChar
 
 StartChar: uni03BC
 Encoding: 956 956 336
-Width: 1179
+Width: 1230
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -16335,22 +16338,21 @@ s."
 LayerCount: 2
 Fore
 SplineSet
-379 -213 m 257
- 125 -213 l 257
- 125 1026 l 257
- 366 1026 l 257
- 372 466 l 257
- 372 285 412 176 555 176 c 256
- 701 176 785 221 785 425 c 258
- 785 1026 l 257
- 1036 1026 l 257
- 1036 262 l 258
- 1036 156 1039 114 1051 0 c 257
- 793 0 l 257
- 789 149 l 257
- 736 7 603 -23 524 -23 c 256
- 471 -23 405 -3 379 27 c 257
- 379 -213 l 257
+801 285 m 257
+ 767 239 706 180 599 180 c 256
+ 483 180 433 251 433 440 c 258
+ 433 1082 l 257
+ 127 1082 l 257
+ 127 -316 l 257
+ 433 -316 l 257
+ 433 -15.4364 l 257
+ 455.165 -18.4655 478.502 -20 503 -20 c 256
+ 670 -20 769 58 829 152 c 257
+ 844 0 l 257
+ 1108 0 l 257
+ 1108 1082 l 257
+ 801 1082 l 257
+ 801 285 l 257
 EndSplineSet
 EndChar
 
@@ -16516,8 +16518,8 @@ p15
 (tsss."
 LayerCount: 2
 Fore
-Refer: 458 700 N 1 0 0 1 0 0 2
 Refer: 338 110 N 1 0 0 1 0 0 2
+Refer: 458 700 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: ncaron
@@ -16560,7 +16562,7 @@ Refer: 338 110 N 1 0 0 1 0 0 2
 Refer: 209 711 N 1 0 0 1 299 0 2
 EndChar
 
-StartChar: uni0146
+StartChar: ncommaaccent
 Encoding: 326 326 342
 Width: 1224
 VWidth: 0
@@ -16979,7 +16981,7 @@ Encoding: 460 460 344
 Width: 1824
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -16990,8 +16992,8 @@ p4
 s."
 LayerCount: 2
 Fore
-Refer: 312 106 N 1 0 0 1 1224 0 2
 Refer: 338 110 N 1 0 0 1 0 0 2
+Refer: 312 106 N 1 0 0 1 1224 0 2
 EndChar
 
 StartChar: notequal
@@ -18613,7 +18615,7 @@ EndChar
 
 StartChar: pi
 Encoding: 960 960 381
-Width: 1288
+Width: 1477
 VWidth: 0
 GlyphClass: 2
 Flags: W
@@ -18648,24 +18650,27 @@ p15
 LayerCount: 2
 Fore
 SplineSet
-160 0 m 257
- 259 183 277 563 284 846 c 257
- 163 843 84 812 57 785 c 257
- 40 963 l 257
- 72 992 167 1026 299 1026 c 258
- 1214 1026 l 257
- 1214 846 l 257
- 1009 846 l 257
- 1009 325 l 258
- 1009 265 1010 178 1108 178 c 256
- 1129 178 1165 182 1202 191 c 257
- 1202 -6 l 257
- 1155 -15 1088 -20 1049 -20 c 256
- 892 -20 779 61 779 268 c 258
- 779 846 l 257
- 508 846 l 257
- 508 846 499 178 408 0 c 257
- 160 0 l 257
+1147 -13 m 256
+ 1225 -13 1290 11 1324 44 c 257
+ 1324 172 l 257
+ 1296 162 1266 157 1225 157 c 256
+ 1168 157 1118 169 1118 238 c 256
+ 1118 344 1122 656 1136 861 c 257
+ 1372 861 l 257
+ 1372 1082 l 257
+ 484 1082 l 258
+ 247 1082 173 946 173 730 c 257
+ 269 730 l 257
+ 281 806 320 860 400 861 c 257
+ 483 861 l 257
+ 419 388 l 257
+ 391 172 257 111 185 111 c 257
+ 185 4 l 257
+ 530 4 600 105 611 323 c 258
+ 637 861 l 257
+ 973 861 l 257
+ 935 660 904 342 904 211 c 256
+ 904 32 1010 -13 1147 -13 c 256
 EndSplineSet
 EndChar
 
@@ -19565,7 +19570,7 @@ Refer: 396 114 N 1 0 0 1 0 0 2
 Refer: 209 711 N 1 0 0 1 71 0 2
 EndChar
 
-StartChar: uni0157
+StartChar: rcommaaccent
 Encoding: 343 343 400
 Width: 780
 VWidth: 0
@@ -20331,10 +20336,10 @@ p15
 LayerCount: 2
 Fore
 Refer: 405 115 N 1 0 0 1 0 0 2
-Refer: 217 710 N 1 0 0 1 147 0 2
+Refer: 217 710 N 1 0 0 1 147 30 2
 EndChar
 
-StartChar: uni0219
+StartChar: scommaaccent
 Encoding: 537 537 410
 Width: 988
 VWidth: 0
@@ -20920,7 +20925,7 @@ Refer: 422 116 N 1 0 0 1 0 0 2
 Refer: 210 -1 N 1 0 0 1 283 334 2
 EndChar
 
-StartChar: uni0163
+StartChar: tcommaaccent
 Encoding: 355 355 425
 Width: 804
 VWidth: 0
@@ -22403,7 +22408,7 @@ Refer: 348 111 N 1 0 0 1 0 0 2
 Refer: 233 729 N 1 0 0 1 403 0 2
 EndChar
 
-StartChar: uni02BC
+StartChar: afii57929
 Encoding: 700 700 458
 Width: 600
 VWidth: 0
@@ -22539,7 +22544,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2015
+StartChar: afii00208
 Encoding: 8213 8213 464
 Width: 4095
 VWidth: 0
@@ -22561,7 +22566,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni2113
+StartChar: afii61289
 Encoding: 8467 8467 465
 Width: 526
 VWidth: 0
@@ -23539,7 +23544,8 @@ StartChar: uni01C8
 Encoding: 456 456 489
 Width: 1773
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Fore
 Refer: 312 106 N 1 0 0 1 1173 0 2
@@ -23550,7 +23556,8 @@ StartChar: uni01CB
 Encoding: 459 459 490
 Width: 2230
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Fore
 Refer: 312 106 N 1 0 0 1 1630 0 2
@@ -23561,11 +23568,129 @@ StartChar: uni01F1
 Encoding: 497 497 491
 Width: 2773
 VWidth: 0
-Flags: H
+GlyphClass: 2
+Flags: W
 LayerCount: 2
 Fore
 Refer: 166 90 N 1 0 0 1 1571 0 2
 Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni01C4
+Encoding: 452 452 492
+Width: 2773
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 168 381 N 1 0 0 1 1571 0 2
+Refer: 27 68 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0358
+Encoding: 856 856 493
+Width: 524
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+136 1153 m 257
+ 136 1386 l 257
+ 388 1386 l 257
+ 388 1153 l 257
+ 136 1153 l 257
+EndSplineSet
+EndChar
+
+StartChar: Sigma
+Encoding: 931 931 494
+Width: 1262
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+82 -267 m 257
+ 82 -134 l 257
+ 601 604 l 257
+ 104 1328 l 257
+ 104 1456 l 257
+ 1170 1456 l 257
+ 1170 1252 l 257
+ 477 1252 l 257
+ 906 606 l 257
+ 464 -55 l 257
+ 1212 -55 l 257
+ 1212 -267 l 257
+ 82 -267 l 257
+EndSplineSet
+EndChar
+
+StartChar: emptyset
+Encoding: 8709 8709 495
+Width: 1678
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+82 733 m 256
+ 82 1166.81 442.21 1503 832 1503 c 256
+ 1004.35 1503 1170.58 1436.64 1301.25 1328.04 c 257
+ 1477.32 1526 l 257
+ 1561.73 1459.84 l 257
+ 1377.81 1254.59 l 257
+ 1502.33 1118.61 1582 936.913 1582 733 c 256
+ 1582 299.191 1221.79 -37 832 -37 c 256
+ 663.656 -37 500.761 26.9148 372.04 130.365 c 257
+ 179.247 -85.523 l 257
+ 102.838 -16.2768 l 257
+ 295.927 200.949 l 257
+ 164.974 338.947 82 524.062 82 733 c 256
+441.112 207.214 m 257
+ 554.498 117.635 690.831 67 832 67 c 256
+ 1166.18 67 1479 357.799 1479 733 c 256
+ 1479 906.121 1412.21 1060.44 1308.46 1177.5 c 257
+ 441.112 207.214 l 257
+364.991 277.959 m 257
+ 1232.31 1251.19 l 257
+ 1118.11 1345.21 977.209 1399 832 1399 c 256
+ 497.816 1399 185 1108.2 185 733 c 256
+ 185 554.76 255.942 395.125 364.991 277.959 c 257
+EndSplineSet
+EndChar
+
+StartChar: uni02C9
+Encoding: 713 713 496
+Width: 600
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-50 1339 m 257
+ 636 1339 l 257
+ 636 1506 l 257
+ -50 1506 l 257
+ -50 1339 l 257
+EndSplineSet
+EndChar
+
+StartChar: mu
+Encoding: 181 181 497
+Width: 1230
+VWidth: 0
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+Refer: 336 956 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

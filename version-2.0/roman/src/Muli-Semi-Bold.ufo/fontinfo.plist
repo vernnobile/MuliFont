@@ -25,7 +25,7 @@
 	<key>note</key>
 	<string></string>
 	<key>openTypeHeadCreated</key>
-	<string>2014/02/09 05:20:07</string>
+	<string>2014/02/26 01:17:53</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -48,7 +48,7 @@ http://scripts.sil.org/OFL
 	<key>openTypeNamePreferedFamilyName</key>
 	<string>Muli</string>
 	<key>openTypeNamePreferedSubfamilyName</key>
-	<string>Bold</string>
+	<string>SemiBold</string>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WeightClass</key>
@@ -61,15 +61,15 @@ http://scripts.sil.org/OFL
 		<integer>0</integer>
 	</array>
 	<key>openTypeOS2TypoAscender</key>
-	<integer>2364</integer>
+	<integer>2412</integer>
 	<key>openTypeOS2TypoDescender</key>
-	<integer>-582</integer>
+	<integer>-607</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>0</integer>
 	<key>openTypeOS2WinAscent</key>
-	<integer>2364</integer>
+	<integer>2412</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>582</integer>
+	<integer>607</integer>
 	<key>postscriptFontName</key>
 	<string>Muli-SemiBold</string>
 	<key>postscriptFullName</key>

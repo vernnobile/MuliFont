@@ -6,8 +6,8 @@ languagesystem latn dflt;
 
 lookup kernHorizontalKerninginLatinloo {
   lookupflag 0;
-    pos \V \period 19;
     pos \V \comma 19;
+    pos \V \period 19;
     pos \v \period 32;
 } kernHorizontalKerninginLatinloo;
 
@@ -17,6 +17,7 @@ feature kern {
      language dflt ;
       lookup kernHorizontalKerninginLatinloo;
 } kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \AEacute \uni01E2 \Aacute \Abreve \uni01CD \Acircumflex 
 	\uni0200 \Adieresis \uni0226 \Agrave \uni0202 \Amacron \Aogonek \Aring 
@@ -70,9 +71,11 @@ feature kern {
 	\uni021A \uni021B \uni021E \uni021F \uni0228 \uni0229 \uni022E \uni022F \uni02BC 
 	\uni0326 \uni2015 \uni2113 \uogonek \uring \utilde \v \w \wacute \wcircumflex 
 	\wdieresis \wgrave \x \y \yacute \ycircumflex \ydieresis \yen \ygrave \uni0233 
-	\uni1EF9 \z \zacute \zcaron \zdotaccent \zero \mu ];
+	\uni1EF9 \z \zacute \zcaron \zdotaccent \zero \mu \uni01C4 \uni01C8 \uni01CB 
+	\uni01F1 \emptyset \Sigma \uni03BC ];
 @GDEF_Mark = [\acute \breve \caron \caron.alt \circumflex \dieresis \dotaccent 
-	\grave \hungarumlaut \macron \ring \tilde \uni0307 \uni030F \uni0311 \uni0312 ];
+	\grave \hungarumlaut \macron \ring \tilde \uni0307 \uni030F \uni0311 \uni0312 
+	\uni0358 \uni02C9 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;

@@ -982,5 +982,23 @@
 	<string>zero.glif</string>
 	<key>mu</key>
 	<string>mu.glif</string>
+	<key>uni01C4</key>
+	<string>uni01C_4.glif</string>
+	<key>uni01C8</key>
+	<string>uni01C_8.glif</string>
+	<key>uni01CB</key>
+	<string>uni01C_B_.glif</string>
+	<key>uni01F1</key>
+	<string>uni01F_1.glif</string>
+	<key>uni0358</key>
+	<string>uni0358.glif</string>
+	<key>emptyset</key>
+	<string>emptyset.glif</string>
+	<key>Sigma</key>
+	<string>S_igma.glif</string>
+	<key>uni03BC</key>
+	<string>uni03B_C_.glif</string>
+	<key>uni02C9</key>
+	<string>uni02C_9.glif</string>
     </dict>
 </plist>

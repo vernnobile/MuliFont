@@ -4,9 +4,9 @@
     <dict>
 	<key>V</key>
 	<dict>
-	    <key>period</key>
-	    <integer>19</integer>
 	    <key>comma</key>
+	    <integer>19</integer>
+	    <key>period</key>
 	    <integer>19</integer>
 	</dict>
 	<key>v</key>

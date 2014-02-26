@@ -3,8 +3,8 @@
   <advance width="1237"/>
   <unicode hex="0149"/>
   <outline>
+    <component base="afii57929"/>
     <component base="n"/>
-    <component base="uni02BC"/>
   </outline>
   <lib>
     <dict>
