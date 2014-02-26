@@ -15,13 +15,12 @@ UFODescent: -556
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
-CreationTime: 1393382894
-ModificationTime: 1393382918
-PfmFamily: 17
+OS2_UseTypoMetrics: 0
+CreationTime: 1393388574
+ModificationTime: 1393388574
+PfmFamily: 0
 TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
@@ -41,7 +40,6 @@ HheadDescent: -607
 HheadDOffset: 0
 OS2Vendor: 'NeWT'
 Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
-MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "Version 2" "" "Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2014, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Muli" "Bold" 
 PickledData: "(dp1
@@ -594,14 +592,13 @@ S'Light'
 p29
 s."
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -128
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 8 2
-BeginPrivate: 0
-EndPrivate
+WinInfo: 0 20 8
 AnchorClass2: "caron.alt" 
 BeginChars: 65543 498
 

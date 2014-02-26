@@ -18,26 +18,26 @@ Layer: 1 0 "Fore"  0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1393378070
-ModificationTime: 1393378070
+CreationTime: 1393388530
+ModificationTime: 1393388530
 PfmFamily: 0
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 2364
+OS2TypoAscent: 2412
 OS2TypoAOffset: 0
-OS2TypoDescent: -582
+OS2TypoDescent: -607
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2364
+OS2WinAscent: 2412
 OS2WinAOffset: 0
-OS2WinDescent: 582
+OS2WinDescent: 607
 OS2WinDOffset: 0
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+HheadAscent: 2412
+HheadAOffset: 0
+HheadDescent: -607
+HheadDOffset: 0
 OS2Vendor: 'NeWT'
 Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
 DEI: 91125
@@ -592,12 +592,13 @@ S'Light'
 p29
 s."
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -128
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64 8 2
+WinInfo: 0 20 8
 AnchorClass2: "caron.alt" "top" 
 BeginChars: 65543 498
 
@@ -3907,8 +3908,8 @@ sS'com.typemytype.robofont.layerData'
 p4
 (dp5
 s."
-AnchorPoint: "top" 311 1456 basechar 0
 AnchorPoint: "caron.alt" 313 1026 basechar 0
+AnchorPoint: "top" 311 1456 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -7509,7 +7510,7 @@ SplineSet
  776 0 l 257
  576 0 l 257
 EndSplineSet
-Kerns2: 219 4 "kernHorizontalKerninginLatinloo subtable"  378 4 "kernHorizontalKerninginLatinloo subtable"  385 -6 "kernHorizontalKerninginLatinloo subtable" 
+Kerns2: 385 -6 "kernHorizontalKerninginLatinloo subtable"  378 4 "kernHorizontalKerninginLatinloo subtable"  219 4 "kernHorizontalKerninginLatinloo subtable" 
 EndChar
 
 StartChar: W
@@ -10791,8 +10792,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 553 1026 basechar 0
 AnchorPoint: "caron.alt" 898 1026 basechar 0
+AnchorPoint: "top" 553 1026 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -15724,8 +15725,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 268 1456 basechar 0
 AnchorPoint: "caron.alt" 253 1026 basechar 0
+AnchorPoint: "top" 268 1456 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -19781,8 +19782,8 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 315 1026 mark 0
 AnchorPoint: "top" 315 1486 basechar 0
+AnchorPoint: "top" 315 1026 mark 0
 LayerCount: 2
 Fore
 SplineSet
@@ -20854,8 +20855,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "top" 328 1347 basechar 0
 AnchorPoint: "caron.alt" 260 1280 basechar 0
+AnchorPoint: "top" 328 1347 basechar 0
 LayerCount: 2
 Fore
 SplineSet

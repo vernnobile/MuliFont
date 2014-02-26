@@ -15,12 +15,22 @@ UFODescent: -556
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+<<<<<<< HEAD
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1393391239
 ModificationTime: 1393391239
 PfmFamily: 0
+=======
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1393388461
+ModificationTime: 1393388472
+PfmFamily: 17
+>>>>>>> FETCH_HEAD
 TTFWeight: 200
 TTFWidth: 5
 LineGap: 0
@@ -34,12 +44,22 @@ OS2WinAscent: 2412
 OS2WinAOffset: 0
 OS2WinDescent: 607
 OS2WinDOffset: 0
+<<<<<<< HEAD
 HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'NeWT'
 Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
+=======
+HheadAscent: 2412
+HheadAOffset: 0
+HheadDescent: -607
+HheadDOffset: 0
+OS2Vendor: 'NeWT'
+Lookup: 258 0 0 "kernHorizontalKerninginLatinloo"  {"kernHorizontalKerninginLatinloo subtable"  } ['kern' ('latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+>>>>>>> FETCH_HEAD
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "Version 2" "" "Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2014, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Muli" "ExtraLight" 
 PickledData: "(dp1
@@ -595,10 +615,19 @@ Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
+<<<<<<< HEAD
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WinInfo: 32 8 2
+=======
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 20 8
+BeginPrivate: 0
+EndPrivate
+>>>>>>> FETCH_HEAD
 AnchorClass2: "caron.alt" "top" 
 BeginChars: 65543 499
 
