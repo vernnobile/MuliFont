@@ -15,32 +15,34 @@ UFODescent: -556
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
-CreationTime: 1393392184
-ModificationTime: 1393392304
-PfmFamily: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1393424647
+ModificationTime: 1393424654
+PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-OS2TypoAscent: 2364
+OS2TypoAscent: 2412
 OS2TypoAOffset: 0
-OS2TypoDescent: -582
+OS2TypoDescent: -607
 OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 2364
+OS2WinAscent: 2412
 OS2WinAOffset: 0
-OS2WinDescent: 582
+OS2WinDescent: 607
 OS2WinDOffset: 0
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+HheadAscent: 2412
+HheadAOffset: 0
+HheadDescent: -607
+HheadDOffset: 0
 OS2Vendor: 'NeWT'
+MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "Version 2.0" "" "Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2014, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Muli" "Bold" 
+LangName: 1033 "" "" "" "" "" "Version 2.0" "" "Muli is a trademark of Vernon Adams and may be registered in certain jurisdictions." "newtypography" "Vernon Adams" "" "newtypography.co.uk" "newtypography.co.uk" "Copyright (c) 2014, vernon adams.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoA" "http://scripts.sil.org/OFL" "" "Muli" "SemiBoldItalic" 
 PickledData: "(dp1
 S'com.typemytype.robofont.foreground.layerStrokeColor'
 p2
@@ -1028,13 +1030,14 @@ S'Light'
 p466
 s."
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 8 5
+WinInfo: 64 8 2
+BeginPrivate: 0
+EndPrivate
 AnchorClass2: "caron.alt" "top" 
 BeginChars: 65543 493
 
@@ -4351,8 +4354,8 @@ sS'com.typemytype.robofont.layerData'
 p4
 (dp5
 s."
-AnchorPoint: "caron.alt" 357 1026 basechar 0
 AnchorPoint: "top" 437 1456 basechar 0
+AnchorPoint: "caron.alt" 357 1026 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -11274,8 +11277,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "caron.alt" 961 1026 basechar 0
 AnchorPoint: "top" 597 1026 basechar 0
+AnchorPoint: "caron.alt" 961 1026 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -12788,7 +12791,7 @@ Encoding: 161 161 260
 Width: 648
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -12820,16 +12823,16 @@ p15
 LayerCount: 2
 Fore
 SplineSet
-496 1034 m 261
- 466 783 l 261
- 221 783 l 261
- 252 1034 l 261
- 496 1034 l 261
-394 651 m 261
- 329 -422 l 261
- 64 -422 l 261
- 262 651 l 261
- 394 651 l 261
+496 1034 m 257
+ 466 783 l 257
+ 221 783 l 257
+ 252 1034 l 257
+ 496 1034 l 257
+394 651 m 257
+ 329 -422 l 257
+ 64 -422 l 257
+ 262 651 l 257
+ 394 651 l 257
 EndSplineSet
 EndChar
 
@@ -16231,8 +16234,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "caron.alt" 296 1026 basechar 0
 AnchorPoint: "top" 390 1456 basechar 0
+AnchorPoint: "caron.alt" 296 1026 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -18901,7 +18904,7 @@ Encoding: 8706 8706 375
 Width: 1162
 VWidth: 0
 GlyphClass: 2
-Flags: HW
+Flags: W
 PickledData: "(dp1
 S'org.robofab.postScriptHintData'
 p2
@@ -18943,7 +18946,7 @@ SplineSet
  863 1208 772 1327 622 1327 c 256
  492 1327 378 1273 318 1241 c 257
  325 1406 l 257
- 418 1467 544 1507 662 1507 c 257
+ 418 1467 544 1507 662 1507 c 256
  850 1507 1088 1351 1088 1004 c 256
  1088 951 1085 894 1077 832 c 256
  1025 409 782 -24 388 -24 c 256
@@ -20329,8 +20332,8 @@ p14
 (tsS'anchors'
 p15
 (tsss."
-AnchorPoint: "top" 350 1500 basechar 0
 AnchorPoint: "top" 298 1026 mark 0
+AnchorPoint: "top" 350 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -21408,8 +21411,8 @@ p13
 (tsS'anchors'
 p14
 (tsss."
-AnchorPoint: "caron.alt" 336 1316 basechar 0
 AnchorPoint: "top" 429 1320 basechar 0
+AnchorPoint: "caron.alt" 336 1316 basechar 0
 LayerCount: 2
 Fore
 SplineSet

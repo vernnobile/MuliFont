@@ -1,4 +1,5 @@
 
+#Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\A \AE \AEacute \uni01E2 \Aacute \Abreve \uni01CD \Acircumflex 
 	\uni0200 \Adieresis \uni0226 \Agrave \uni0202 \Amacron \Aogonek \Aring 
