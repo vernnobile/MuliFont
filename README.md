@@ -1,4 +1,4 @@
-MuliFont
+Muli Font
 ========
 
 Git Repository for the Muli Font Family
