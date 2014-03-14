@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="1">
+  <advance width="1168"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="506" y="63" type="curve" smooth="yes"/>
+      <point x="808" y="63"/>
+      <point x="932" y="410"/>
+      <point x="954" y="662" type="curve"/>
+      <point x="913" y="798"/>
+      <point x="800" y="914"/>
+      <point x="626" y="914" type="curve" smooth="yes"/>
+      <point x="395" y="914"/>
+      <point x="214" y="682"/>
+      <point x="214" y="412" type="curve" smooth="yes"/>
+      <point x="214" y="201"/>
+      <point x="328" y="63"/>
+    </contour>
+    <contour>
+      <point x="501" y="-24" type="curve" smooth="yes"/>
+      <point x="241" y="-24"/>
+      <point x="108" y="169"/>
+      <point x="108" y="414" type="curve" smooth="yes"/>
+      <point x="108" y="747"/>
+      <point x="322" y="1002"/>
+      <point x="595" y="1002" type="curve" smooth="yes"/>
+      <point x="824" y="1002"/>
+      <point x="924" y="850"/>
+      <point x="972" y="767" type="curve"/>
+      <point x="972" y="799"/>
+      <point x="974" y="825"/>
+      <point x="975" y="868" type="curve" smooth="yes"/>
+      <point x="984" y="1247"/>
+      <point x="836" y="1470"/>
+      <point x="578" y="1470" type="curve" smooth="yes"/>
+      <point x="518" y="1470"/>
+      <point x="422" y="1456"/>
+      <point x="325" y="1384" type="curve"/>
+      <point x="317" y="1478" type="line"/>
+      <point x="391" y="1523"/>
+      <point x="493" y="1559"/>
+      <point x="607" y="1559" type="curve" smooth="yes"/>
+      <point x="898" y="1559"/>
+      <point x="1081" y="1343"/>
+      <point x="1081" y="872" type="curve" smooth="yes"/>
+      <point x="1081" y="429"/>
+      <point x="884" y="-24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>partialdiff</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1163.95</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

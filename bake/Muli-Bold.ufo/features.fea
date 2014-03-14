@@ -1,0 +1,84 @@
+
+languagesystem latn dflt;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinloo {
+  lookupflag 0;
+    pos \V \q 3;
+} kernHorizontalKerninginLatinloo;
+
+feature kern {
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinloo;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\A \AE \AEacute \uni01E2 \Aacute \Abreve \uni01CD \Acircumflex 
+	\uni0200 \Adieresis \uni0226 \Agrave \uni0202 \Amacron \Aogonek \Aring 
+	\Aringacute \Atilde \B \uni1E02 \C \uni000D \Cacute \Ccaron \Ccedilla 
+	\Ccircumflex \Cdotaccent \D \uni007F \Dcaron \Dcroat \uni1E0A \uni0394 \uni01F2 
+	\uni01C5 \E \Eacute \Ebreve \Ecaron \Ecircumflex \uni0204 \Edieresis \Edotaccent 
+	\Egrave \uni0206 \Emacron \Eng \Eogonek \Eth \uni1EBC \Euro \F \uni1E1E \G \uni01F4 
+	\Gbreve \Gcaron \Gcircumflex \Gcommaaccent \Gdotaccent \H \Hbar \Hcircumflex \I 
+	\IJ \Iacute \Ibreve \uni01CF \Icircumflex \uni0208 \Idieresis \Idotaccent 
+	\Igrave \uni020A \Imacron \Iogonek \Itilde \J \Jcircumflex \K \uni01E8 
+	\Kcommaaccent \L \uni01C7 \Lacute \Lcaron \Lcommaaccent \Ldot \Lslash \M \uni1E40 
+	\N \uni01CA \NULL \Nacute \Ncaron \Ncommaaccent \Ntilde \O \OE \Oacute \Obreve 
+	\uni01D1 \Ocircumflex \uni020C \Odieresis \Ograve \Omega \Ohungarumlaut 
+	\uni020E \Omacron \uni03A9 \uni01EA \Oslash \Oslashacute \Otilde \P \uni1E56 \Q \R 
+	\Racute \Rcaron \Rcommaaccent \uni0210 \uni0212 \S \Sacute \Scaron \Scedilla 
+	\Scircumflex \Scommaaccent \uni1E60 \T \Tbar \Tcaron \Tcommaaccent \uni1E6A 
+	\Thorn \U \Uacute \Ubreve \uni01D3 \Ucircumflex \uni0214 \Udieresis \Ugrave 
+	\Uhungarumlaut \uni0216 \Umacron \Uogonek \Uring \Utilde \V \W \Wacute 
+	\Wcircumflex \Wdieresis \Wgrave \X \Y \Yacute \Ycircumflex \Ydieresis \Ygrave 
+	\uni0232 \uni1EF8 \Z \Zacute \Zcaron \Zdotaccent \a \aacute \abreve \uni01CE 
+	\acircumflex \acute \uni0201 \adieresis \uni0227 \ae \aeacute \uni01E3 \agrave 
+	\uni0203 \amacron \ampersand \aogonek \approxequal \aring \aringacute 
+	\asciicircum \asciitilde \asterisk \at \atilde \b \backslash \bar \uni1E03 
+	\braceleft \braceright \bracketleft \bracketright \breve \brokenbar \bullet 
+	\uni2219 \c \cacute \caron \ccaron \ccedilla \ccircumflex \cdotaccent \cedilla 
+	\cent \circumflex \colon \comma \copyright \currency \d \dagger \daggerdbl 
+	\dcaron \dcroat \uni1E0B \degree \dieresis \divide \uni2215 \dollar \dotaccent 
+	\dotlessi \uni0237 \uni01F3 \uni01C6 \e \eacute \ebreve \ecaron \ecircumflex 
+	\uni0205 \edieresis \edotaccent \egrave \eight \uni0207 \ellipsis \emacron 
+	\emdash \endash \eng \eogonek \equal \estimated \eth \uni1EBD \exclam \exclamdown 
+	\f \uniFB00 \uniFB03 \uniFB04 \uni1E1F \uniFB01 \five \fj \uniFB02 \florin 
+	\foundryicon \four \uni2074 \fraction \g \uni01F5 \gbreve \gcaron \gcircumflex 
+	\gcommaaccent \gdotaccent \germandbls \grave \greater \greaterequal 
+	\guillemotleft \guillemotright \guilsinglleft \guilsinglright \h \hbar 
+	\hcircumflex \hungarumlaut \hyphen \i \i.loclTRK \iacute \ibreve \uni01D0 
+	\icircumflex \uni0209 \idieresis \igrave \uni020B \ij \imacron \Delta \infinity 
+	\integral \iogonek \itilde \j \uni01F0 \jcircumflex \k \uni01E9 \kcommaaccent 
+	\kgreenlandic \l \lacute \lcaron \lcommaaccent \ldot \less \lessequal \uni01C9 
+	\logicalnot \longs \lozenge \lslash \m \macron \uni1E41 \middot \minus \uni03BC 
+	\multiply \n \nacute \napostrophe \ncaron \ncommaaccent \nine \uni01CC \notequal 
+	\ntilde \numbersign \o \oacute \obreve \uni01D2 \ocircumflex \uni020D \odieresis 
+	\oe \ogonek \ograve \ohungarumlaut \uni020F \omacron \one \onehalf \onequarter 
+	\uni00B9 \uni01EB \ordfeminine \ordmasculine \oslash \oslashacute \otilde \p 
+	\paragraph \parenleft \parenright \partialdiff \uni1E57 \percent \period 
+	\periodcentered \perthousand \pi \plus \plusminus \product \q \question 
+	\questiondown \quotedbl \quotedblbase \quotedblleft \quotedblright \quoteleft 
+	\quoteright \quotesinglbase \quotesingle \r \racute \radical \rcaron 
+	\rcommaaccent \uni0211 \registered \ring \uni0213 \s \sacute \scaron \scedilla 
+	\scircumflex \scommaaccent \uni1E61 \section \semicolon \seven \six \slash 
+	\slashbar \uni00AD \space \sterling \summation \t \tbar \tcaron \tcommaaccent 
+	\uni1E6B \thorn \three \threequarters \uni00B3 \tilde \trademark \two \uni00B2 \u 
+	\uacute \ubreve \uni01D4 \ucircumflex \uni0215 \udieresis \ugrave 
+	\uhungarumlaut \uni0217 \umacron \underscore \uni00A0 \uni01F8 \uni01F9 
+	\uni021A \uni021B \uni021E \uni021F \uni0228 \uni0229 \uni022E \uni022F 
+	\afii57929 \uni0307 \uni030F \uni0311 \uni0312 \uni0326 \afii00208 \afii61289 
+	\uogonek \uring \utilde \v \w \wacute \wcircumflex \wdieresis \wgrave \x \y \yacute 
+	\ycircumflex \ydieresis \yen \ygrave \uni0233 \uni1EF9 \z \zacute \zcaron 
+	\zdotaccent \zero \uni01C8 \uni01CB \uni01F1 \uni01C4 \uni0358 \Sigma \emptyset 
+	\uni02C9 \mu ];
+@GDEF_Mark = [\caron.alt ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, ;
+
+} GDEF;
+

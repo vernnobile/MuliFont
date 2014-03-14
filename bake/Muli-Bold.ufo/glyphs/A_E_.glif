@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="2215"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="634" y="558" type="line"/>
+      <point x="1101" y="558" type="line"/>
+      <point x="1054" y="1230" type="line"/>
+      <point x="1020" y="1230" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="886" y="1456" type="line"/>
+      <point x="1970" y="1456" type="line"/>
+      <point x="1970" y="1230" type="line"/>
+      <point x="1313" y="1230" type="line"/>
+      <point x="1347" y="854" type="line"/>
+      <point x="1968" y="854" type="line"/>
+      <point x="1968" y="634" type="line"/>
+      <point x="1375" y="634" type="line"/>
+      <point x="1414" y="226" type="line"/>
+      <point x="1996" y="226" type="line"/>
+      <point x="1996" y="0" type="line"/>
+      <point x="1148" y="0" type="line"/>
+      <point x="1119" y="355" type="line"/>
+      <point x="535" y="355" type="line"/>
+      <point x="333" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>AE</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>2073.55</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

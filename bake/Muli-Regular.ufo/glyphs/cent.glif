@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="1030"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="669" y="-20.6156" type="curve"/>
+      <point x="669" y="-213" type="line"/>
+      <point x="586" y="-213" type="line"/>
+      <point x="586" y="-20.937" type="line"/>
+      <point x="286.264" y="-3.97664"/>
+      <point x="101" y="214.182"/>
+      <point x="101" y="507" type="curve" smooth="yes"/>
+      <point x="101" y="815.555"/>
+      <point x="291.725" y="1031.94"/>
+      <point x="586" y="1050.68" type="curve"/>
+      <point x="586" y="1252" type="line"/>
+      <point x="669" y="1252" type="line"/>
+      <point x="669" y="1050.72" type="line"/>
+      <point x="790.538" y="1043.07"/>
+      <point x="894.978" y="1001.12"/>
+      <point x="967" y="930" type="curve"/>
+      <point x="902" y="808" type="line"/>
+      <point x="845.435" y="857.267"/>
+      <point x="764.73" y="894.048"/>
+      <point x="669" y="900.117" type="curve"/>
+      <point x="669" y="129.061" type="line"/>
+      <point x="776.463" y="136.437"/>
+      <point x="862.261" y="181.053"/>
+      <point x="918" y="224" type="curve"/>
+      <point x="976" y="91" type="line"/>
+      <point x="892.128" y="25.8656"/>
+      <point x="790.742" y="-12.9971"/>
+    </contour>
+    <contour>
+      <point x="586" y="131.098" type="curve"/>
+      <point x="586" y="897.498" type="line"/>
+      <point x="411.981" y="874.714"/>
+      <point x="291" y="741.148"/>
+      <point x="291" y="508" type="curve" smooth="yes"/>
+      <point x="291" y="295.499"/>
+      <point x="403.422" y="153.472"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>cent</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>1033.2</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

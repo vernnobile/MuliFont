@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.alt" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="48" y="1026" type="move" name="_caron.alt"/>
+    </contour>
+    <contour>
+      <point x="325" y="994" type="line"/>
+      <point x="434" y="1468" type="line"/>
+      <point x="643" y="1468" type="line"/>
+      <point x="475" y="994" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

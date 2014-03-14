@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="620"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="314" y="1026" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="468.783" y="1203.99" type="curve" smooth="yes"/>
+      <point x="377.478" y="1203.99"/>
+      <point x="240.705" y="1303"/>
+      <point x="169" y="1303" type="curve" smooth="yes"/>
+      <point x="126" y="1303"/>
+      <point x="106" y="1273"/>
+      <point x="103" y="1216" type="curve"/>
+      <point x="13" y="1216" type="line"/>
+      <point x="13" y="1334"/>
+      <point x="69" y="1405"/>
+      <point x="162" y="1405" type="curve" smooth="yes"/>
+      <point x="262.125" y="1405"/>
+      <point x="390.092" y="1305.98"/>
+      <point x="463.02" y="1305.98" type="curve" smooth="yes"/>
+      <point x="502.298" y="1305.98"/>
+      <point x="511.033" y="1335.08"/>
+      <point x="513" y="1399" type="curve"/>
+      <point x="607" y="1399" type="line"/>
+      <point x="607" y="1286.67"/>
+      <point x="567.476" y="1203.99"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>org.robofab.postScriptHintData</key>
+      <dict>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+    <key>b</key>
+      <dict>
+    <key>name</key>
+      <string>tilde</string>
+    <key>lib</key>
+      <dict>
+      </dict>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <real>672.35</real>
+    <key>contours</key>
+      <array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+      </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
